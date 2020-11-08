@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Bombardier</name>
+            <texture>Liveries/CS100/Bombardier.png</texture>
+            <texture-engine>Liveries/CS100/engines-bombardier.png</texture-engine>
+        </livery>
+    </model>
+</sim>
+</PropertyList>

@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="NearestVOR.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5726105"
+     inkscape:cx="935.29615"
+     inkscape:cy="308.8847"
+     inkscape:document-units="px"
+     inkscape:current-layer="NearestVORGroup"
+     showgrid="true"
+     inkscape:window-width="2495"
+     inkscape:window-height="1416"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4269" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7962" />
+  <metadata
+     id="metadata7965">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="NearestVORLayer">
+    <g
+       inkscape:label="#g4237"
+       id="NearestVORGroup">
+      <rect
+         inkscape:label="#rect8921"
+         y="53.505371"
+         x="724.50537"
+         height="688.98926"
+         width="309.98926"
+         id="Background"
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.01074231;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="77.683525"
+         x="730.68347"
+         height="264.61694"
+         width="288.63297"
+         id="rect9743"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.39907384;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="67.41272"
+         x="745.41272"
+         height="20.174551"
+         width="89.073318"
+         id="rect9753"
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1.028;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9749"
+         y="80.307159"
+         x="774.57446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.96767669,1.033403)"><tspan
+           y="80.307159"
+           x="774.57446"
+           id="tspan9751"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';stroke-width:0.967722px">NEAREST VOR</tspan><tspan
+           y="98.45195"
+           x="774.57446"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';stroke-width:0.967722px"
+           id="tspan4878" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORID0"
+         y="103.49844"
+         x="794.41644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="103.49844"
+           x="794.41644"
+           id="tspan4242"
+           sodipodi:role="line">KSFO</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="908.79016"
+         y="103.49844"
+         id="NearestVORCRS0"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           sodipodi:role="line"
+           id="tspan4253"
+           x="908.79016"
+           y="103.49844">359</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORDST0"
+         y="104.30227"
+         x="1031.7998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="104.30227"
+           x="1031.7998"
+           id="tspan4257"
+           sodipodi:role="line">200nm</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 740.43792,98.041859 0,4.062081 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.124308 0,4.062057 z"
+         id="NearestVORArrow0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="#path4259" />
+      <rect
+         y="365.384"
+         x="730.77856"
+         height="186.78522"
+         width="288.44296"
+         id="rect4331"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="353.10547"
+         x="745.5"
+         height="20.02869"
+         width="89.028687"
+         id="rect4333"
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4335"
+         y="357.03204"
+         x="775.05835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.96767669,1.033403)"><tspan
+           y="357.03204"
+           x="775.05835"
+           id="tspan4337"
+           sodipodi:role="line"
+           style="stroke-width:0.967722px">INFORMATION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.35444069px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="753.573"
+         y="249.65851"
+         id="text4355"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767669,1.033403)"><tspan
+           sodipodi:role="line"
+           id="tspan4357"
+           x="753.573"
+           y="249.65851" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORLat"
+         y="496.22913"
+         x="763.41406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767669,1.033403)"><tspan
+           y="496.22913"
+           x="763.41406"
+           id="tspan4361"
+           sodipodi:role="line">N 56 45.29</tspan></text>
+      <rect
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;fill-rule:nonzero;stroke:#c0c0c0;stroke-width:1.35785162;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="NearestVORScrollTrough"
+         width="4.6345778"
+         height="248.64197"
+         x="1010.6788"
+         y="83.679108"
+         inkscape:label="#rect4231" />
+      <rect
+         inkscape:label="#rect4231"
+         y="83.481094"
+         x="1010.4811"
+         height="115.03781"
+         width="5.0298772"
+         id="NearestVORScrollThumb"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.96218586;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5077"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+           id="flowRegion5079"><rect
+             id="rect5081"
+             width="365"
+             height="275"
+             x="695"
+             y="93" /></flowRegion><flowPara
+           id="flowPara5083" /></flowRoot>      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="794.41644"
+         y="124.86945"
+         id="NearestVORID1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5087"
+           x="794.41644"
+           y="124.86945">KSFO</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         sodipodi:linespacing="125%"
+         id="NearestVORCRS1"
+         y="124.86945"
+         x="908.79016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="124.86945"
+           x="908.79016"
+           id="tspan5091"
+           sodipodi:role="line">359</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1031.7998"
+         y="125.67334"
+         id="NearestVORDST1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5095"
+           x="1031.7998"
+           y="125.67334">200nm</tspan></text>
+      <path
+         inkscape:label="#path4259"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="NearestVORArrow1"
+         d="m 740.43792,120.12679 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORID2"
+         y="146.24054"
+         x="794.41644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="146.24054"
+           x="794.41644"
+           id="tspan5101"
+           sodipodi:role="line">KSFO</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="908.79016"
+         y="146.24054"
+         id="NearestVORCRS2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           sodipodi:role="line"
+           id="tspan5105"
+           x="908.79016"
+           y="146.24054">359</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORDST2"
+         y="147.04431"
+         x="1031.7998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="147.04431"
+           x="1031.7998"
+           id="tspan5109"
+           sodipodi:role="line">200nm</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 740.43792,142.21169 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         id="NearestVORArrow2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="#path4259" />
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="794.41644"
+         y="167.61153"
+         id="NearestVORID3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5115"
+           x="794.41644"
+           y="167.61153">KSFO</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         sodipodi:linespacing="125%"
+         id="NearestVORCRS3"
+         y="167.61153"
+         x="908.79016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="167.61153"
+           x="908.79016"
+           id="tspan5119"
+           sodipodi:role="line">359</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1031.7998"
+         y="168.41536"
+         id="NearestVORDST3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5123"
+           x="1031.7998"
+           y="168.41536">200nm</tspan></text>
+      <path
+         inkscape:label="#path4259"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="NearestVORArrow3"
+         d="m 740.43792,164.29659 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORID4"
+         y="188.9826"
+         x="795.09454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="188.9826"
+           x="795.09454"
+           id="tspan5129"
+           sodipodi:role="line">KSFO</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="909.46826"
+         y="188.9826"
+         id="NearestVORCRS4"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           sodipodi:role="line"
+           id="tspan5133"
+           x="909.46826"
+           y="188.9826">359</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORDST4"
+         y="189.78644"
+         x="1032.4779"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="189.78644"
+           x="1032.4779"
+           id="tspan5137"
+           sodipodi:role="line">200nm</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 741.0941,186.38149 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         id="NearestVORArrow4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="#path4259" />
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="795.09454"
+         y="210.35364"
+         id="NearestVORID5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5143"
+           x="795.09454"
+           y="210.35364">KSFO</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         sodipodi:linespacing="125%"
+         id="NearestVORCRS5"
+         y="210.35364"
+         x="909.46826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="210.35364"
+           x="909.46826"
+           id="tspan5147"
+           sodipodi:role="line">359</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1032.4779"
+         y="211.15747"
+         id="NearestVORDST5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5151"
+           x="1032.4779"
+           y="211.15747">200nm</tspan></text>
+      <path
+         inkscape:label="#path4259"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="NearestVORArrow5"
+         d="m 741.0941,208.4664 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORID6"
+         y="231.72469"
+         x="795.09454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="231.72469"
+           x="795.09454"
+           id="tspan5157"
+           sodipodi:role="line">KSFO</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="909.46826"
+         y="231.72469"
+         id="NearestVORCRS6"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           sodipodi:role="line"
+           id="tspan5161"
+           x="909.46826"
+           y="231.72469">359</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORDST6"
+         y="232.52846"
+         x="1032.4779"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="232.52846"
+           x="1032.4779"
+           id="tspan5165"
+           sodipodi:role="line">200nm</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 741.0941,230.55131 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         id="NearestVORArrow6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="#path4259" />
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="795.09454"
+         y="253.09572"
+         id="NearestVORID7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5171"
+           x="795.09454"
+           y="253.09572">KSFO</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         sodipodi:linespacing="125%"
+         id="NearestVORCRS7"
+         y="253.09572"
+         x="909.46826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="253.09572"
+           x="909.46826"
+           id="tspan5175"
+           sodipodi:role="line">359</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1032.4779"
+         y="253.89952"
+         id="NearestVORDST7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5179"
+           x="1032.4779"
+           y="253.89952">200nm</tspan></text>
+      <path
+         inkscape:label="#path4259"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="NearestVORArrow7"
+         d="m 741.0941,252.63622 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORID8"
+         y="274.46677"
+         x="795.09454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="274.46677"
+           x="795.09454"
+           id="tspan5227"
+           sodipodi:role="line">KSFO</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="909.46826"
+         y="274.46677"
+         id="NearestVORCRS8"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           sodipodi:role="line"
+           id="tspan5231"
+           x="909.46826"
+           y="274.46677">359</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORDST8"
+         y="275.2706"
+         x="1032.4779"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="275.2706"
+           x="1032.4779"
+           id="tspan5235"
+           sodipodi:role="line">200nm</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 741.0941,274.72112 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         id="NearestVORArrow8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="#path4259" />
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="795.09454"
+         y="295.83777"
+         id="NearestVORID9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5241"
+           x="795.09454"
+           y="295.83777">KSFO</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         sodipodi:linespacing="125%"
+         id="NearestVORCRS9"
+         y="295.83777"
+         x="909.46826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="295.83777"
+           x="909.46826"
+           id="tspan5245"
+           sodipodi:role="line">359</tspan></text>
+      <text
+         transform="scale(0.96767632,1.0334034)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1032.4779"
+         y="296.6416"
+         id="NearestVORDST9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5249"
+           x="1032.4779"
+           y="296.6416">200nm</tspan></text>
+      <path
+         inkscape:label="#path4259"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="NearestVORArrow9"
+         d="m 741.0941,296.80602 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORID10"
+         y="317.20883"
+         x="795.09454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="317.20883"
+           x="795.09454"
+           id="tspan5255"
+           sodipodi:role="line">KSFO</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="909.46826"
+         y="317.20883"
+         id="NearestVORCRS10"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           sodipodi:role="line"
+           id="tspan5259"
+           x="909.46826"
+           y="317.20883">359</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORDST10"
+         y="318.01266"
+         x="1032.4779"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20.26409912px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767632,1.0334034)"><tspan
+           y="318.01266"
+           x="1032.4779"
+           id="tspan5263"
+           sodipodi:role="line">200nm</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87584442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 741.0941,318.89093 0,4.06208 9.44228,0 0,4.06207 8.67785,-6.0619 -8.67785,-6.1243 0,4.06205 z"
+         id="NearestVORArrow10"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="#path4259" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5267"
+         width="289.3338"
+         height="37.333771"
+         x="730.30444"
+         y="574.3562" />
+      <rect
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:0.88099998;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5269"
+         width="84.095772"
+         height="20.044155"
+         x="745.46356"
+         y="562.51532" />
+      <text
+         transform="scale(0.96767669,1.033403)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="775.02869"
+         y="559.68054"
+         id="text5271"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:0.967722px"
+           sodipodi:role="line"
+           id="tspan5273"
+           x="775.02869"
+           y="559.68054">FREQUENCY</tspan></text>
+      <text
+         transform="scale(0.96767669,1.033403)"
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="763.41406"
+         y="518.86725"
+         id="NearestVORLon"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5285"
+           x="763.41406"
+           y="518.86725">E 56 45.78</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORFreq"
+         y="582.37469"
+         x="763.50854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767669,1.033403)"><tspan
+           id="tspan5293"
+           y="582.37469"
+           x="763.50854"
+           sodipodi:role="line">116.650</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="NearestVORName"
+         y="379.29587"
+         x="763.41406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.35444069px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"
+         transform="scale(0.96767669,1.033403)"><tspan
+           y="379.29587"
+           x="763.41406"
+           id="tspan4361-3"
+           sodipodi:role="line">NAME</tspan></text>
+    </g>
+  </g>
+</svg>

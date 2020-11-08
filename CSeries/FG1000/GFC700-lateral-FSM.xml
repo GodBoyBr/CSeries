@@ -1,0 +1,522 @@
+<?xml version="1.0" ?>
+<PropertyList>
+
+<!-- GFC 700 Autopilot Finite State Machine for LATERAL mode-->
+<branch>/autopilot/GFC700/FSM/lateral</branch>
+
+<state>
+  <name>OFF</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value></value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value></value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value></value>
+  </enter>
+  <enter>
+    <!-- Reset button to avoid triggering next transition immediately -->
+    <command>property-assign</command>
+    <property>/autopilot/lateral-mode-button</property>
+    <value></value>
+  </enter>
+</state>
+
+<state>
+  <!-- Roll mode.  Either set wings level (if roll < 6.0), or set to current roll -->
+  <name>ROL</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value>ROL</value>
+  </enter>
+  <enter>
+    <!-- Reset button to avoid triggering next transition immediately -->
+    <command>property-assign</command>
+    <property>/autopilot/lateral-mode-button</property>
+    <value></value>
+  </enter>
+</state>
+
+<transition>
+  <!-- Go to wings level mode if roll [-6.0,6.0] -->
+  <name>ROL-ROL-WL</name>
+  <source>ROL</source>
+  <target>ROL-WL</target>
+  <condition>
+    <less-than>
+      <property>/autopilot/internal/filtered-roll-deg</property>
+      <value>6.0</value>
+    </less-than>
+    <greater-than>
+      <property>/autopilot/internal/filtered-roll-deg</property>
+      <value>-6.0</value>
+    </greater-than>
+  </condition>
+</transition>
+
+<transition>
+  <!-- Otherwise, just got to ROLL with the set roll value -->
+  <name>ROL-ROL-SET</name>
+  <source>ROL</source>
+  <target>ROL-SET</target>
+  <condition>
+    <or>
+      <greater-than>
+        <property>/autopilot/internal/filtered-roll-deg</property>
+        <value>6.0</value>
+      </greater-than>
+      <less-than>
+        <property>/autopilot/internal/filtered-roll-deg</property>
+        <value>-6.0</value>
+      </less-than>
+    </or>
+  </condition>
+</transition>
+
+<state>
+  <name>ROL-SET</name>
+  <!-- Roll hold mode.  We assign a filtered value, which limits to to [-22.0, 20.0] -->
+  <enter>
+    <command>property-assign</command>
+    <property n="0">/autopilot/settings/target-roll-deg</property>
+    <property n="1">/autopilot/internal/filtered-roll-deg</property>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>roll-hold</value>
+  </enter>
+</state>
+
+<state>
+  <name>ROL-WL</name>
+  <!-- Roll hold mode - wings level.  Used if the roll value when enabled is [-6,6]-->
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/settings/target-roll-deg</property>
+    <value>0.0</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>roll-hold</value>
+  </enter>
+</state>
+
+<state>
+  <name>GA</name>
+  <!-- GA mode - Wings level -->
+  <enter>
+    <command>property-assign</command>
+    <property n="0">/autopilot/settings/target-roll-deg</property>
+    <value>0.0</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>roll-hold</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value>GA</value>
+  </enter>
+  <enter>
+    <!-- Reset button to avoid triggering next transition immediately -->
+    <command>property-assign</command>
+    <property>/autopilot/lateral-mode-button</property>
+    <value></value>
+  </enter>
+</state>
+
+<state>
+  <name>HDG</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>dg-heading-hold</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value>HDG</value>
+  </enter>
+  <enter>
+    <!-- Reset button to avoid triggering next transition immediately -->
+    <command>property-assign</command>
+    <property>/autopilot/lateral-mode-button</property>
+    <value></value>
+  </enter>
+</state>
+
+<!-- Common state for NAV from which the NAV source is used to transition to GPS, NAV1 or NAV2 autopilots -->
+<state>
+  <name>NAV-SRC</name>
+  <enter>
+    <!-- Reset button to avoid triggering next transition immediately -->
+    <command>property-assign</command>
+    <property>/autopilot/lateral-mode-button</property>
+    <value></value>
+  </enter>
+</state>
+
+<transition>
+  <name>NAV-GPS</name>
+  <source>NAV-SRC</source>
+  <target>GPS-ARM</target>
+  <condition>
+    <equals>
+      <property>/autopilot/settings/nav-mode-source</property>
+      <value>GPS</value>
+    </equals>
+  </condition>
+</transition>
+
+<transition>
+  <name>NAV-LOC</name>
+  <source>NAV-SRC</source>
+  <target>LOC-ARM</target>
+  <condition>
+    <or>
+      <and>
+        <equals>
+          <property>/autopilot/settings/nav-mode-source</property>
+          <value>NAV1</value>
+        </equals>
+        <equals>
+          <property>/instrumentation/nav[0]/nav-loc</property>
+          <value>true</value>
+        </equals>
+      </and>
+      <and>
+        <equals>
+          <property>/autopilot/settings/nav-mode-source</property>
+          <value>NAV2</value>
+        </equals>
+        <equals>
+          <property>/instrumentation/nav[1]/nav-loc</property>
+          <value>true</value>
+        </equals>
+      </and>
+    </or>
+  </condition>
+</transition>
+
+<transition>
+  <name>NAV-VOR</name>
+  <source>NAV-SRC</source>
+  <target>VOR-ARM</target>
+  <condition>
+    <or>
+      <and>
+        <equals>
+          <property>/autopilot/settings/nav-mode-source</property>
+          <value>NAV1</value>
+        </equals>
+        <equals>
+          <property>/instrumentation/nav[0]/nav-loc</property>
+          <value>false</value>
+        </equals>
+      </and>
+      <and>
+        <equals>
+          <property>/autopilot/settings/nav-mode-source</property>
+          <value>NAV1</value>
+        </equals>
+        <equals>
+          <property>/instrumentation/nav[1]/nav-loc</property>
+          <value>false</value>
+        </equals>
+      </and>
+    </or>
+  </condition>
+</transition>
+
+<state>
+  <name>GPS-ARM</name>
+  <!-- GPS isn't referenced directly.  Instead we slave it to Nav1 and use the Nav1 autopilot -->
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value>GPS</value>
+  </enter>
+</state>
+
+<transition>
+  <name>GPS-ARM - GPS</name>
+  <source>GPS-ARM</source>
+  <target>GPS</target>
+  <condition>
+    <equals>
+      <property>/autopilot/internal/nav-capture</property>
+      <value>1</value>
+    </equals>
+  </condition>
+</transition>
+
+<state>
+  <name>LOC-ARM</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/instrumentation/nav[0]/slaved-to-gps</property>
+    <value>0</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value>LOC</value>
+  </enter>
+</state>
+
+<transition>
+  <name>LOC-ARM - LOC</name>
+  <source>LOC-ARM</source>
+  <target>LOC</target>
+  <condition>
+    <equals>
+      <property>/autopilot/internal/nav-capture</property>
+      <value>1</value>
+    </equals>
+  </condition>
+</transition>
+
+<state>
+  <name>VOR-ARM</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/instrumentation/nav[0]/slaved-to-gps</property>
+    <value>0</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value>VOR</value>
+  </enter>
+</state>
+
+<transition>
+  <name>VOR-ARM - VOR</name>
+  <source>VOR-ARM</source>
+  <target>VOR</target>
+  <condition>
+    <equals>
+      <property>/autopilot/internal/nav-capture</property>
+      <value>1</value>
+    </equals>
+  </condition>
+</transition>
+
+<state>
+  <name>GPS</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value>GPS</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value></value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/instrumentation/nav[0]/slaved-to-gps</property>
+    <value>1</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>nav-hold</value>
+  </enter>
+</state>
+
+<state>
+  <name>LOC</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value>LOC</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value></value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>nav-hold</value>
+  </enter>
+</state>
+
+<state>
+  <name>VOR</name>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode</property>
+    <value>VOR</value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/annunciator/lateral-mode-armed</property>
+    <value></value>
+  </enter>
+  <enter>
+    <command>property-assign</command>
+    <property>/autopilot/locks/heading</property>
+    <value>nav-hold</value>
+  </enter>
+</state>
+
+<!-- From the OFF state, pressing any of FD, AP, CWS, NAV, BC, APR, changes to ROL mode -->
+<transition>
+  <name>OFF-ROL</name>
+  <source>OFF</source>
+  <target>ROL</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <or>
+      <equals><property>/autopilot/lateral-mode-button</property><value>FD</value></equals>
+      <equals><property>/autopilot/lateral-mode-button</property><value>CWS</value></equals>
+      <equals><property>/autopilot/lateral-mode-button</property><value>NAV</value></equals>
+      <equals><property>/autopilot/lateral-mode-button</property><value>BC</value></equals>
+      <equals><property>/autopilot/lateral-mode-button</property><value>APR</value></equals>
+      <equals><property>/autopilot/lateral-mode-button</property><value>HDG</value></equals>
+    </or>
+  </condition>
+</transition>
+
+<transition>
+  <name>OFF-HDG</name>
+  <source>OFF</source>
+  <target>HDG</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <or>
+      <equals><property>/autopilot/lateral-mode-button</property><value>HDG</value></equals>
+    </or>
+  </condition>
+</transition>
+
+<!-- AP/FD logic is somewhat complex:
+1) Pressing AP toggles the autopilot on/off
+  a) OFF to ON : OFF-AP-ROL transition below
+  b) ON to OFF : Handled by a separate FSM.  We could use a series of transitions
+     to the same states below, but that would result in entry bindings being repeated, which would be bad
+2) When the AP is enabled, the FD button is disabled. (Easy - no transition!)
+3) Pressing the FD button when the FD is enabled switches off the FD : Switch-off transition below
+-->
+
+<!-- From the OFF state, pressing AP changes to ROL mode, with the AP enabled (e.g. not passive mode) -->
+<transition>
+  <name>OFF-AP-ROL</name>
+  <source>OFF</source>
+  <target>ROL</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>AP</value></equals>
+  </condition>
+  <binding>
+    <command>property-assign</command>
+    <property>/autopilot/locks/passive-mode</property>
+    <value>0</value>
+  </binding>
+</transition>
+
+<!-- From any state pressing FD when FD is ON switches off the FD -->
+<transition>
+  <name>FD-Switch-off</name>
+  <target>OFF</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>FD</value></equals>
+    <equals><property>/autopilot/locks/passive-mode</property><value>1</value></equals>
+  </condition>
+</transition>
+
+<!-- Series of transitions to handle case where disabling the AP.  Need to remain in existing state -->
+
+<!-- From any state, pressing GA goes to GA mode, and returns to ROL mode when pressed again -->
+<transition>
+  <name>To GA</name>
+  <target>GA</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>GA</value></equals>
+  </condition>
+</transition>
+
+<transition>
+  <name>From GA</name>
+  <source>GA</source>
+  <target>ROL</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>GA</value></equals>
+  </condition>
+</transition>
+
+<!-- From any state, pressing HDG goes to HDG mode, and returns to ROL mode when pressed again -->
+<transition>
+  <name>To HDG</name>
+  <target>HDG</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>HDG</value></equals>
+  </condition>
+</transition>
+
+<transition>
+  <name>From HDG</name>
+  <source>HDG</source>
+  <target>ROL</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>HDG</value></equals>
+  </condition>
+</transition>
+
+<!-- From (just about) any state, pressing NAV or APR goes to NAV mode.  APR mode should
+     have a slightly different VOR version (VAPP), but is otherwise identical in lateral,
+     if not vertical modes.  So we will just overload the states for simplicity. -->
+<transition>
+  <name>To NAV</name>
+  <target>NAV-SRC</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <and>
+      <or>
+        <equals><property>/autopilot/lateral-mode-button</property><value>NAV</value></equals>
+        <equals><property>/autopilot/lateral-mode-button</property><value>APR</value></equals>
+      </or>
+      <not><equals><property>/autopilot/locks/heading</property><value>nav-hold</value></equals></not>
+    </and>
+  </condition>
+</transition>
+
+<!-- Only switch off NAV/APR when NAV is pressed, as user may press APR to enable glideslope while already
+     in NAV mode -->
+<transition>
+  <name>From NAV</name>
+  <source>GPS-ARM</source>
+  <source>VOR-ARM</source>
+  <source>LOC-ARM</source>
+  <source>GPS</source>
+  <source>VOR</source>
+  <source>LOC</source>
+  <target>ROL</target>
+  <exclude-target>true</exclude-target>
+  <condition>
+    <equals><property>/autopilot/lateral-mode-button</property><value>NAV</value></equals>
+  </condition>
+</transition>
+
+</PropertyList>

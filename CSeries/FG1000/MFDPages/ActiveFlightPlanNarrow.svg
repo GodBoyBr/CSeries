@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ActiveFlightPlanNarrow.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8536232"
+     inkscape:cx="514.56439"
+     inkscape:cy="420.09235"
+     inkscape:document-units="px"
+     inkscape:current-layer="ActiveFlightPlanNarrowLegend"
+     showgrid="true"
+     inkscape:window-width="2495"
+     inkscape:window-height="1416"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4269" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7962" />
+  <metadata
+     id="metadata7965">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="ActiveFlightPlanNarrowsLayer">
+    <g
+       inkscape:label="#g4237"
+       id="ActiveFlightPlanNarrowGroup">
+      <g
+         style="display:inline"
+         id="ActiveFlightPlanNarrowNavMap"
+         inkscape:label="#g4298"
+         transform="matrix(1.0107527,0,0,0.99855072,-451.07514,-2.915942)">
+        <rect
+           inkscape:label="#rect4293"
+           y="58"
+           x="565"
+           height="690"
+           width="465"
+           id="ActiveFlightPlanNarrowNavMap-bg"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <rect
+         inkscape:label="#rect8921"
+         y="53.505371"
+         x="590"
+         height="688.98926"
+         width="434.49463"
+         id="Background"
+         style="opacity:1;fill:#202020;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.01074231;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="77.483986"
+         x="595"
+         height="350.51602"
+         width="425"
+         id="rect9743"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="0.5160141"
+         ry="0.5160141" />
+      <text
+         transform="scale(0.96688776,1.0342462)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDIS10"
+         y="404.15903"
+         x="961.29138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="404.15903"
+           x="961.29138"
+           id="tspan12951"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="852.01593"
+         y="307.4696"
+         id="ActiveFlightPlanNarrowDTK6"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12779"
+           x="852.01593"
+           y="307.4696">DTK</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowLeg6"
+         y="307.28049"
+         x="666.68689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="307.28049"
+           x="666.68689"
+           id="tspan12775"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowALT5"
+         y="283.29745"
+         x="1034.6362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="283.29745"
+           x="1034.6362"
+           id="tspan12745"
+           sodipodi:role="line">ALT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="666.68689"
+         y="283.10834"
+         id="ActiveFlightPlanNarrowLeg5"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12733"
+           x="666.68689"
+           y="283.10834">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowHeader5"
+         y="283.10834"
+         x="651.17316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="283.10834"
+           x="651.17316"
+           id="tspan12749"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.17316"
+         y="258.93622"
+         id="ActiveFlightPlanNarrowHeader4"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12707"
+           x="651.17316"
+           y="258.93622">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowALT3"
+         y="234.9532"
+         x="1034.6362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="234.9532"
+           x="1034.6362"
+           id="tspan12661"
+           sodipodi:role="line">ALT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="961.29138"
+         y="234.95372"
+         id="ActiveFlightPlanNarrowDIS3"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688776,1.0342462)"><tspan
+           sodipodi:role="line"
+           id="tspan12657"
+           x="961.29138"
+           y="234.95372">DTK</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDTK3"
+         y="234.9532"
+         x="852.01593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="234.9532"
+           x="852.01593"
+           id="tspan12653"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowHeader3"
+         y="234.76407"
+         x="651.17316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="234.76407"
+           x="651.17316"
+           id="tspan12665"
+           sodipodi:role="line">LEGID</tspan></text>
+      <g
+         transform="translate(-436.99999,0.3999505)"
+         style="display:inline"
+         id="ActiveFlightPlanNarrowLegend"
+         inkscape:label="#g4959">
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00795722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8420"
+           width="66.992043"
+           height="24.992043"
+           x="959.50397"
+           y="718.50403" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.03934765px;line-height:0%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#31ffff;fill-opacity:1;stroke:none"
+           x="1059.5933"
+           y="689.10815"
+           id="ActiveFlightPlanNarrowRangeDisplay"
+           transform="scale(0.93580798,1.0685953)"
+           inkscape:label="RangeDisplay"
+           sodipodi:linespacing="0%"><tspan
+             sodipodi:role="line"
+             id="tspan5131-3-5"
+             x="1059.5933"
+             y="689.10815"
+             style="font-size:17.55738258px;line-height:1.25;fill:#31ffff;fill-opacity:1">Zoom nm</tspan></text>
+        <rect
+           y="55.482422"
+           x="952.10205"
+           height="20.035156"
+           width="74.343285"
+           id="rect4216"
+           style="display:inline;opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:0.96484423;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:label="#text4218"
+           sodipodi:linespacing="125%"
+           id="ActiveFlightPlanNarrowOrientationDisplay"
+           y="70.5"
+           x="956.10889"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="70.5"
+             x="956.10889"
+             id="tspan4220"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed'">NORTH UP</tspan></text>
+      </g>
+      <rect
+         y="68.5"
+         x="605.5"
+         height="20.02342"
+         width="126.02343"
+         id="rect9753"
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9749"
+         y="81.244186"
+         x="630.85461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.96767669,1.033403)"><tspan
+           y="81.244186"
+           x="630.85461"
+           id="tspan9751"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';stroke-width:0.967722px">ACTIVE FLIGHT PLAN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.35444069px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="743.23895"
+         y="249.65851"
+         id="text4355"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96767669,1.033403)"><tspan
+           sodipodi:role="line"
+           id="tspan4357"
+           x="743.23895"
+           y="249.65851" /></text>
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00069809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4377"
+         width="425"
+         height="125"
+         x="595.50037"
+         y="588.50037" />
+      <rect
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1.00069809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4379"
+         width="193.02252"
+         height="19.949158"
+         x="604.98962"
+         y="578.99188" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:14.52596188px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.9683975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="630.85333"
+         y="574.30511"
+         id="text4381"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           id="tspan4383"
+           sodipodi:role="line"
+           x="630.85333"
+           y="574.30511"
+           style="stroke-width:0.9683975px">SELECTED WAYPOINT WEATHER</tspan></text>
+      <rect
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99568439;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ActiveFlightPlanNarrowScrollTrough"
+         width="5"
+         height="270"
+         x="1010"
+         y="148"
+         inkscape:label="#rect4231" />
+      <rect
+         inkscape:label="#rect4231"
+         y="148"
+         x="1010"
+         height="90"
+         width="5"
+         id="ActiveFlightPlanNarrowScrollThumb"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46575949;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="text11860"
+         y="705.2179"
+         x="834.66028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:14.52624989px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.9683975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:14.52624989px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.9683975px"
+           y="705.2179"
+           x="834.66028"
+           sodipodi:role="line"
+           id="tspan11862">Press the &quot;FPL&quot; key to view the previous page</tspan></text>
+      <rect
+         y="442.49966"
+         x="595.50037"
+         height="125"
+         width="425"
+         id="rect11864"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00069809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="435.43323"
+         x="604.98962"
+         height="19.949158"
+         width="145.01038"
+         id="rect11866"
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1.00069809;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="text11868"
+         y="435.50034"
+         x="630.85333"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:14.52596188px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.9683975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.9683975px"
+           y="435.50034"
+           x="630.85333"
+           sodipodi:role="line"
+           id="tspan11870">CURRENT VNV PROFILE</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowWaypointWeather"
+         y="599.86566"
+         x="619.31"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="599.86566"
+           x="619.31"
+           id="tspan11874"
+           sodipodi:role="line" /></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="660.67993"
+         y="108.27831"
+         id="ActiveFlightPlanNarrowName"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan11878"
+           x="660.67993"
+           y="108.27831">NO FLIGHT PLAN ACTIVE</tspan></text>
+      <text
+         transform="scale(0.96767669,1.033403)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="852.07941"
+         y="128.23277"
+         id="text11880"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';stroke-width:0.967722px"
+           sodipodi:role="line"
+           id="tspan11882"
+           x="852.07941"
+           y="128.23277">DTK</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text11884"
+         y="128.23303"
+         x="929.58252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.96767884,1.0334007)"><tspan
+           y="128.23303"
+           x="929.58252"
+           id="tspan11886"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';stroke-width:0.967722px">DIS</tspan></text>
+      <text
+         transform="scale(0.96767669,1.033403)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.51583004px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:0.967722px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1004.0556"
+         y="128.23277"
+         id="text11888"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';stroke-width:0.967722px"
+           sodipodi:role="line"
+           id="tspan11890"
+           x="1004.0556"
+           y="128.23277">ALT</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1010,138 -410,0"
+         id="path11892"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowLeg0"
+         y="162.24765"
+         x="666.68689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="162.24765"
+           x="666.68689"
+           id="tspan11896"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="851.94995"
+         y="162.43678"
+         id="ActiveFlightPlanNarrowDTK0"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan11900"
+           x="851.94995"
+           y="162.43678">DTK</tspan></text>
+      <text
+         transform="scale(0.96688776,1.0342462)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDIS0"
+         y="162.43713"
+         x="961.29138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="162.43713"
+           x="961.29138"
+           id="tspan11904"
+           sodipodi:role="line">DIS</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.6362"
+         y="162.43678"
+         id="ActiveFlightPlanNarrowALT0"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan11908"
+           x="1034.6362"
+           y="162.43678">ALT</tspan></text>
+      <path
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 624.84603,158 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         id="ActiveFlightPlanNarrowArrow1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:label="#path4715" />
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.17316"
+         y="162.24765"
+         id="ActiveFlightPlanNarrowHeader0"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12537"
+           x="651.17316"
+           y="162.24765">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="666.68689"
+         y="186.60892"
+         id="ActiveFlightPlanNarrowLeg1"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12541"
+           x="666.68689"
+           y="186.60892">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDTK1"
+         y="186.79805"
+         x="852.01593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="186.79805"
+           x="852.01593"
+           id="tspan12545"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="961.29138"
+         y="186.79845"
+         id="ActiveFlightPlanNarrowDIS1"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688776,1.0342462)"><tspan
+           sodipodi:role="line"
+           id="tspan12549"
+           x="961.29138"
+           y="186.79845">DTK</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowALT1"
+         y="186.79805"
+         x="1034.6362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="186.79805"
+           x="1034.6362"
+           id="tspan12553"
+           sodipodi:role="line">ALT</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowHeader1"
+         y="186.60892"
+         x="651.17316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="186.60892"
+           x="651.17316"
+           id="tspan12557"
+           sodipodi:role="line">LEGID</tspan></text>
+      <path
+         inkscape:label="#path4715"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="ActiveFlightPlanNarrowArrow0"
+         d="M 607.16098,139.86358 607.0016,158.96232 610.88532,163 620,163 l 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:label="#path4715"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="ActiveFlightPlanNarrowArrow2"
+         d="m 624.84603,182.80439 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowLeg2"
+         y="210.59192"
+         x="666.68689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="210.59192"
+           x="666.68689"
+           id="tspan12565"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="852.01593"
+         y="210.78105"
+         id="ActiveFlightPlanNarrowDTK2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12569"
+           x="852.01593"
+           y="210.78105">DTK</tspan></text>
+      <text
+         transform="scale(0.96688776,1.0342462)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDIS2"
+         y="210.78151"
+         x="961.29138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="210.78151"
+           x="961.29138"
+           id="tspan12573"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.6362"
+         y="210.78105"
+         id="ActiveFlightPlanNarrowALT2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12577"
+           x="1034.6362"
+           y="210.78105">ALT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.17316"
+         y="210.59192"
+         id="ActiveFlightPlanNarrowHeader2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12581"
+           x="651.17316"
+           y="210.59192">LEGID</tspan></text>
+      <path
+         inkscape:label="#path4715"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="ActiveFlightPlanNarrowArrow3"
+         d="m 624.84603,207.8044 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="666.68689"
+         y="234.76407"
+         id="ActiveFlightPlanNarrowLeg3"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12649"
+           x="666.68689"
+           y="234.76407">LEGID</tspan></text>
+      <path
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 624.84603,232.8044 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         id="ActiveFlightPlanNarrowArrow4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:label="#path4715" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowLeg4"
+         y="258.93622"
+         x="666.68689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="258.93622"
+           x="666.68689"
+           id="tspan12691"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="852.01593"
+         y="259.12534"
+         id="ActiveFlightPlanNarrowDTK4"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12695"
+           x="852.01593"
+           y="259.12534">DTK</tspan></text>
+      <text
+         transform="scale(0.96688776,1.0342462)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDIS4"
+         y="259.12589"
+         x="961.29138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="259.12589"
+           x="961.29138"
+           id="tspan12699"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.6362"
+         y="259.12534"
+         id="ActiveFlightPlanNarrowALT4"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12703"
+           x="1034.6362"
+           y="259.12534">ALT</tspan></text>
+      <path
+         inkscape:label="#path4715"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="ActiveFlightPlanNarrowArrow5"
+         d="m 624.84603,257.80439 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDTK5"
+         y="283.29745"
+         x="852.01593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="283.29745"
+           x="852.01593"
+           id="tspan12737"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="961.29138"
+         y="283.2981"
+         id="ActiveFlightPlanNarrowDIS5"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688776,1.0342462)"><tspan
+           sodipodi:role="line"
+           id="tspan12741"
+           x="961.29138"
+           y="283.2981">DTK</tspan></text>
+      <path
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 624.84603,282.8044 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         id="ActiveFlightPlanNarrowArrow6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:label="#path4715" />
+      <text
+         transform="scale(0.96688776,1.0342462)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDIS6"
+         y="307.47031"
+         x="961.29138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="307.47031"
+           x="961.29138"
+           id="tspan12783"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.6362"
+         y="307.4696"
+         id="ActiveFlightPlanNarrowALT6"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12787"
+           x="1034.6362"
+           y="307.4696">ALT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.17316"
+         y="307.28049"
+         id="ActiveFlightPlanNarrowHeader6"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12791"
+           x="651.17316"
+           y="307.28049">LEGID</tspan></text>
+      <path
+         inkscape:label="#path4715"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="ActiveFlightPlanNarrowArrow7"
+         d="m 624.84603,307.8044 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="666.68689"
+         y="331.45264"
+         id="ActiveFlightPlanNarrowLeg7"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12817"
+           x="666.68689"
+           y="331.45264">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDTK7"
+         y="331.64175"
+         x="852.01593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="331.64175"
+           x="852.01593"
+           id="tspan12821"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="961.29138"
+         y="331.64246"
+         id="ActiveFlightPlanNarrowDIS7"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688776,1.0342462)"><tspan
+           sodipodi:role="line"
+           id="tspan12825"
+           x="961.29138"
+           y="331.64246">DTK</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowALT7"
+         y="331.64175"
+         x="1034.6362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="331.64175"
+           x="1034.6362"
+           id="tspan12829"
+           sodipodi:role="line">ALT</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowHeader7"
+         y="331.45264"
+         x="651.17316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="331.45264"
+           x="651.17316"
+           id="tspan12833"
+           sodipodi:role="line">LEGID</tspan></text>
+      <path
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 624.84603,332.80439 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         id="ActiveFlightPlanNarrowArrow8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:label="#path4715" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowLeg8"
+         y="355.62476"
+         x="666.68689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="355.62476"
+           x="666.68689"
+           id="tspan12859"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="852.01593"
+         y="355.81387"
+         id="ActiveFlightPlanNarrowDTK8"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12863"
+           x="852.01593"
+           y="355.81387">DTK</tspan></text>
+      <text
+         transform="scale(0.96688776,1.0342462)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDIS8"
+         y="355.81464"
+         x="961.29138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="355.81464"
+           x="961.29138"
+           id="tspan12867"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.6362"
+         y="355.81387"
+         id="ActiveFlightPlanNarrowALT8"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12871"
+           x="1034.6362"
+           y="355.81387">ALT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.17316"
+         y="355.62476"
+         id="ActiveFlightPlanNarrowHeader8"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12875"
+           x="651.17316"
+           y="355.62476">LEGID</tspan></text>
+      <path
+         inkscape:label="#path4715"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="ActiveFlightPlanNarrowArrow9"
+         d="m 624.84603,357.8044 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="666.68689"
+         y="379.79691"
+         id="ActiveFlightPlanNarrowLeg9"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12901"
+           x="666.68689"
+           y="379.79691">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowDTK9"
+         y="379.98602"
+         x="852.01593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="379.98602"
+           x="852.01593"
+           id="tspan12905"
+           sodipodi:role="line">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="961.29138"
+         y="379.98688"
+         id="ActiveFlightPlanNarrowDIS9"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688776,1.0342462)"><tspan
+           sodipodi:role="line"
+           id="tspan12909"
+           x="961.29138"
+           y="379.98688">DTK</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowALT9"
+         y="379.98602"
+         x="1034.6362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="379.98602"
+           x="1034.6362"
+           id="tspan12913"
+           sodipodi:role="line">ALT</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowHeader9"
+         y="379.79691"
+         x="651.17316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="379.79691"
+           x="651.17316"
+           id="tspan12917"
+           sodipodi:role="line">LEGID</tspan></text>
+      <path
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 624.84603,382.8044 -12.88292,0.0385 -5.07699,5.03849 0.11548,20.88533 3.88372,4.03768 9.11468,0 0,3 5,-5 -4.84603,-4.72975 -0.077,2.73055 -6.23175,2e-5 -2.99841,-2.9984 0.077,-16.00481 3.07538,-2.9214 10.84684,-3e-5 0,-4.07618"
+         id="ActiveFlightPlanNarrowArrow10"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:label="#path4715" />
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowLeg10"
+         y="403.96906"
+         x="666.68689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="403.96906"
+           x="666.68689"
+           id="tspan12943"
+           sodipodi:role="line">LEGID</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="852.01593"
+         y="404.15817"
+         id="ActiveFlightPlanNarrowDTK10"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12947"
+           x="852.01593"
+           y="404.15817">DTK</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1034.6362"
+         y="404.15817"
+         id="ActiveFlightPlanNarrowALT10"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12955"
+           x="1034.6362"
+           y="404.15817">ALT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.17316"
+         y="403.96906"
+         id="ActiveFlightPlanNarrowHeader10"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan12959"
+           x="651.17316"
+           y="403.96906">LEGID</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="text4305"
+         y="461.19785"
+         x="624.41528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="461.19785"
+           x="624.41528"
+           id="tspan4307"
+           sodipodi:role="line">ACT VNV WPT</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="624.37744"
+         y="498.52695"
+         id="text4309"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan4311"
+           x="624.37744"
+           y="498.52695">VS TGT</tspan></text>
+      <text
+         transform="scale(0.96688562,1.0342485)"
+         sodipodi:linespacing="125%"
+         id="text4313"
+         y="535.8623"
+         x="624.37744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36795044px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4232"><tspan
+           y="535.8623"
+           x="624.37744"
+           id="tspan4315"
+           sodipodi:role="line">VS REQ</tspan></text>
+      <text
+         inkscape:label="#text4232"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750054px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="748.52509"
+         y="461.19785"
+         id="ActiveFlightPlanNarrowActiveWPTAlt"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96688562,1.0342485)"><tspan
+           sodipodi:role="line"
+           id="tspan4366">_____ft</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="805"
+         y="476.99316"
+         id="text4323"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4325"
+           x="805"
+           y="476.99316">at</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="840"
+         y="476.99316"
+         id="ActiveFlightPlanNarrowActiveWPTID"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4327"><tspan
+           sodipodi:role="line"
+           id="tspan4329"
+           x="840"
+           y="476.99316">____</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="688.27222"
+         y="515.60077"
+         id="ActiveFlightPlanNarrowVSTargetFPM"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4331"><tspan
+           sodipodi:role="line"
+           id="tspan4333"
+           x="688.27222"
+           y="515.60077">____fpm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="782.45612"
+         y="515.60077"
+         id="text4335"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4337"
+           x="782.45612"
+           y="515.60077">FPA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="845.23645"
+         y="515.60077"
+         id="ActiveFlightPlanNarrowFlightPathAngle"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4339"><tspan
+           sodipodi:role="line"
+           id="tspan4341"
+           x="845.23645"
+           y="515.60077">____</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowVSRequiredFPM"
+         y="554.21478"
+         x="688.27222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4343"><tspan
+           y="554.21478"
+           x="688.27222"
+           id="tspan4345"
+           sodipodi:role="line">____fpm</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4347"
+         y="554.21478"
+         x="783.69495"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="554.21478"
+           x="783.69495"
+           id="tspan4349"
+           sodipodi:role="line">V DEV</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="845.86517"
+         y="554.21478"
+         id="ActiveFlightPlanNarrowVerticalDeviation"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4351"><tspan
+           sodipodi:role="line"
+           id="tspan4353"
+           x="845.86517"
+           y="554.21478">____ft</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="912.46863"
+         y="554.21478"
+         id="text4356"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4358"
+           x="912.46863"
+           y="554.21478">TOD</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="ActiveFlightPlanNarrowTimeToTOD"
+         y="554.21478"
+         x="960.30109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:19.36750031px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4360"><tspan
+           sodipodi:role="line"
+           id="tspan4364"
+           x="960.30109"
+           y="554.21478">__:__</tspan></text>
+    </g>
+  </g>
+</svg>

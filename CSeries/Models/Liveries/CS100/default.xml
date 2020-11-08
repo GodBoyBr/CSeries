@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Blank</name>
+            <texture>cs100.png</texture>
+            <texture-engine>engines.png</texture-engine>
+        </livery>
+    </model>
+</sim>
+</PropertyList>

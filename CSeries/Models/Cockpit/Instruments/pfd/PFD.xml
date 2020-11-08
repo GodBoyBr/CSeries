@@ -1,0 +1,31 @@
+<PropertyList>
+
+ <path>pfdL.ac</path>
+ 
+ 	<!-- Power on/off --><!--
+	<animation>
+		<name>Power on/off</name>
+		<type>select</type>
+		<object-name>pfdL.canvas</object-name>
+		<condition>
+			<less-than>
+                                <property>/systems/electrical/left-bus</property>
+				<value>15</value>
+			</less-than>
+		</condition>
+	</animation>-->
+<!--
+<animation>
+	<type>pick</type>
+	<object-name>pfdL.canvas</object-name>
+	<action>
+		<button>0</button>
+		<repeatable>false</repeatable>
+		<binding>
+			<command>nasal</command>
+			<script>boeing737.showPfd();</script>
+		</binding>
+	</action>
+</animation>-->
+    
+</PropertyList>

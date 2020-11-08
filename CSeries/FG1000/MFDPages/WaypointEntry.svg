@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WaypointEntry.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1481278"
+     inkscape:cx="776.8472"
+     inkscape:cy="382.52948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="2495"
+     inkscape:window-height="1416"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4269" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7962" />
+  <metadata
+     id="metadata7965">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="WaypointEntryGroup">
+    <g
+       id="WaypointEntryGroup"
+       inkscape:label="#g4310">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4252"
+         width="315"
+         height="325"
+         x="705"
+         y="278"
+         inkscape:label="#rect59059" />
+      <g
+         id="WaypointEntryMap"
+         inkscape:label="#g60873"
+         transform="translate(0,-64.700026)">
+        <rect
+           inkscape:label="#rect59059"
+           y="278"
+           x="705"
+           height="325"
+           width="315"
+           id="WaypointEntryMap-bg"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <path
+         style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 698.99609,58.498047 0,622.303953 325.00391,0 0,-622.303953 z M 705.5,212.73335 l 314.4277,0 0,322.2793 -314.4277,0 z"
+         id="rect4230"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+      <rect
+         y="102.92673"
+         x="704.92676"
+         height="94.646538"
+         width="315.14658"
+         id="rect9743"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="564.0752"
+         x="704.77563"
+         height="74.724365"
+         width="315.22437"
+         id="rect9747"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="93.154411"
+         x="720.15442"
+         height="19.691175"
+         width="139.19115"
+         id="rect9753"
+         style="opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1.30882514;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9749"
+         y="108"
+         x="725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="108"
+           x="725"
+           id="tspan9751"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed'">IDENT, FACILITY, CITY</tspan></text>
+      <rect
+         style="opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4150"
+         width="34.834621"
+         height="20.334629"
+         x="719.8327"
+         y="203.65253" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="725"
+         y="218.81982"
+         id="text4152"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4154"
+           x="725"
+           y="218.81982">MAP</tspan></text>
+      <rect
+         y="554.75623"
+         x="719.98303"
+         height="20.033949"
+         width="74.533913"
+         id="rect4156"
+         style="opacity:1;fill:#1a3030;fill-opacity:1;fill-rule:nonzero;stroke:#fffcfa;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4158"
+         y="569.77319"
+         x="725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:15px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="569.77319"
+           x="725"
+           sodipodi:role="line"
+           id="tspan4162">LOCATION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="711.10352"
+         y="136.96484"
+         id="WaypointEntryID"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4166"><tspan
+           sodipodi:role="line"
+           id="tspan4168"
+           x="711.10352"
+           y="136.96484">KSFO</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="WaypointEntryName"
+         y="161.86719"
+         x="711.70898"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:label="#text4170"><tspan
+           y="161.86719"
+           x="711.70898"
+           id="tspan4172"
+           sodipodi:role="line">SAN FRANCISCO INTERNATIONAL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="711.01562"
+         y="187.80469"
+         id="WaypointEntryCity"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4174"><tspan
+           sodipodi:role="line"
+           id="tspan4176"
+           x="711.01562"
+           y="187.80469">CITY</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="711.10352"
+         y="182.80469"
+         id="WaypointEntryRegion"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4198"><tspan
+           sodipodi:role="line"
+           id="tspan4200"
+           x="711.10352"
+           y="182.80469">REGION</tspan></text>
+      <text
+         inkscape:label="#text4166"
+         sodipodi:linespacing="125%"
+         id="WaypointEntryID0"
+         y="137.16016"
+         x="711.10352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="137.16016"
+           x="711.10352"
+           id="tspan4227"
+           sodipodi:role="line">K</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="722.25781"
+         y="136.96484"
+         id="WaypointEntryID1"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4166"><tspan
+           sodipodi:role="line"
+           id="tspan4232"
+           x="722.25781"
+           y="136.96484">S</tspan></text>
+      <text
+         inkscape:label="#text4166"
+         sodipodi:linespacing="125%"
+         id="WaypointEntryID2"
+         y="137.16016"
+         x="732.99805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="137.16016"
+           x="732.99805"
+           id="tspan4236"
+           sodipodi:role="line">F</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="743.24805"
+         y="136.96484"
+         id="WaypointEntryID3"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4166"><tspan
+           sodipodi:role="line"
+           id="tspan4240"
+           x="743.24805"
+           y="136.96484">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="785.59717"
+         y="77.353516"
+         id="text3449"
+         sodipodi:linespacing="125%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed'"
+           sodipodi:role="line"
+           id="tspan3451"
+           x="785.59717"
+           y="77.353516">WAYPOINT INFORMATION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="711.10352"
+         y="593.60425"
+         id="text3549"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4166"><tspan
+           sodipodi:role="line"
+           id="tspan3551"
+           x="711.10352"
+           y="593.60425">BRG</tspan></text>
+      <text
+         inkscape:label="#text4166"
+         sodipodi:linespacing="125%"
+         id="WaypointEntryLocationBRG"
+         y="593.60425"
+         x="760.69336"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="593.60425"
+           x="760.69336"
+           id="tspan3555"
+           sodipodi:role="line">189</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="758.75"
+         y="623.60425"
+         id="WaypointEntryLocationDIS"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4166"><tspan
+           sodipodi:role="line"
+           id="tspan3559"
+           x="758.75"
+           y="623.60425">12.3</tspan></text>
+      <text
+         inkscape:label="#text4166"
+         sodipodi:linespacing="125%"
+         id="text3565"
+         y="623.60425"
+         x="713.65234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="623.60425"
+           x="713.65234"
+           id="tspan3567"
+           sodipodi:role="line">DIS</tspan></text>
+      <rect
+         y="510.89764"
+         x="951.39722"
+         height="24.004704"
+         width="68.004707"
+         id="rect8420"
+         style="display:inline;opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99528456;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="0%"
+         inkscape:label="RangeDisplay"
+         transform="scale(0.95485858,1.0472755)"
+         id="WaypointEntryRangeDisplay"
+         y="506.28864"
+         x="1032.0643"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.80263901px;line-height:0%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#31ffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:17.21218109px;line-height:1.25;fill:#31ffff;fill-opacity:1"
+           y="506.28864"
+           x="1032.0643"
+           id="tspan5131-3-5-3"
+           sodipodi:role="line">Zoom nm</tspan></text>
+      <rect
+         style="display:inline;opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4265"
+         width="75.057129"
+         height="19.057156"
+         x="944.07098"
+         y="213.77084" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.80263901px;line-height:0%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1027.9818"
+         y="218.78036"
+         id="WaypointEntryOrientationDisplay"
+         transform="scale(0.95485858,1.0472755)"
+         inkscape:label="RangeDisplay"
+         sodipodi:linespacing="0%"><tspan
+           sodipodi:role="line"
+           id="tspan4269"
+           x="1027.9818"
+           y="218.78036"
+           style="font-size:17.21218109px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">NORTH UP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="873.37891"
+         y="593.60425"
+         id="WaypointEntryLocationLat"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4166"><tspan
+           sodipodi:role="line"
+           id="tspan4748"
+           x="873.37891"
+           y="593.60425">________</tspan></text>
+      <text
+         inkscape:label="#text4166"
+         sodipodi:linespacing="125%"
+         id="WaypointEntryLocationLon"
+         y="621.09448"
+         x="873.37891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="621.09448"
+           x="873.37891"
+           id="tspan4752"
+           sodipodi:role="line">________</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4754"
+         y="664.77319"
+         x="800.20532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#fffcfa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="664.77319"
+           x="800.20532"
+           id="tspan4756"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed'">Press &quot;ENT&quot; to accept</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="Shortcuts"
+       style="display:inline">
+      <g
+         transform="translate(5.3346157e-6,0)"
+         inkscape:label="#g4271"
+         id="WaypointEntryWaypointSubmenuGroup">
+        <rect
+           style="opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.77672273;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4232"
+           width="115.22327"
+           height="149.22327"
+           x="709.38837"
+           y="143.38834" />
+        <rect
+           y="147.38759"
+           x="713.38757"
+           height="141.22482"
+           width="107.22482"
+           id="rect4239"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.77518052;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           ry="0" />
+        <text
+           inkscape:label="#text4198"
+           sodipodi:linespacing="125%"
+           id="WaypointEntryWaypointSubmenuSelect"
+           y="170.66508"
+           x="765.59869"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="170.66508"
+             x="765.59869"
+             id="tspan4243"
+             sodipodi:role="line">REGION</tspan></text>
+        <path
+           style="fill:#feffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 800.5,153.35355 0,20 10,-10 -10,-10"
+           id="WaypointEntryWaypointSubmenuSelectRight"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path4245" />
+        <path
+           inkscape:connector-curvature="0"
+           id="WaypointEntryWaypointSubmenuSelectLeft"
+           d="m 730.70711,153.35355 0,20 -10,-10 10,-10"
+           style="fill:#feffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:label="#path4247" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:0.85485041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 720,178 95,0"
+           id="path4249"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="718.65234"
+           y="201.96484"
+           id="WaypointEntryWaypointSubmenuScroll0"
+           sodipodi:linespacing="125%"
+           inkscape:label="#text4198"><tspan
+             sodipodi:role="line"
+             id="tspan4253"
+             x="718.65234"
+             y="201.96484">REGION</tspan></text>
+        <text
+           inkscape:label="#text4198"
+           sodipodi:linespacing="125%"
+           id="WaypointEntryWaypointSubmenuScroll1"
+           y="226.96484"
+           x="718.65234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="226.96484"
+             x="718.65234"
+             id="tspan4257"
+             sodipodi:role="line">REGION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="718.65234"
+           y="251.96484"
+           id="WaypointEntryWaypointSubmenuScroll2"
+           sodipodi:linespacing="125%"
+           inkscape:label="#text4198"><tspan
+             sodipodi:role="line"
+             id="tspan4261"
+             x="718.65234"
+             y="251.96484">REGION</tspan></text>
+        <text
+           inkscape:label="#text4198"
+           sodipodi:linespacing="125%"
+           id="WaypointEntryWaypointSubmenuScroll3"
+           y="276.96484"
+           x="718.65234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#80ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="276.96484"
+             x="718.65234"
+             id="tspan4265"
+             sodipodi:role="line">REGION</tspan></text>
+        <rect
+           style="opacity:1;fill:#c0c0c0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="WaypointEntryWaypointSubmenuScrollTrough"
+           width="5"
+           height="90"
+           x="810"
+           y="188"
+           inkscape:label="#rect4267" />
+        <rect
+           y="188"
+           x="810"
+           height="30"
+           width="5"
+           id="WaypointEntryWaypointSubmenuScrollThumb"
+           style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:label="#rect4269" />
+      </g>
+    </g>
+  </g>
+</svg>
