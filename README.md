@@ -1,4 +1,4 @@
-# FGAircraft|CSeries
+# FGAircraft | CSeries
 FlightGear Bombardier CSeries
 
 ACJZA, Joshua Davidson (it0uchpods/411), Jonathan Redpath, D-ECHO, Pakistan-1, C-FWES
