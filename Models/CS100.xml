@@ -313,6 +313,8 @@
     <!--Engine-->
     <object-name>nacelleL</object-name>
     <object-name>nacelleR</object-name>
+	<object-name>eng.1.reverser</object-name>
+	<object-name>eng.2.reverser</object-name>
     <object-name>enginefix.</object-name>
   </effect>
  <effect>
@@ -384,6 +386,8 @@
     <type>material</type>
     <object-name>nacelleL</object-name>
     <object-name>nacelleR</object-name>
+	<object-name>eng.1.reverser</object-name>
+	<object-name>eng.2.reverser</object-name>
     <object-name>enginefix.</object-name>
     
     <property-base>sim/model/livery</property-base>
@@ -403,6 +407,30 @@
 		<object-name>apu.chrome</object-name>
 		<object-name>engineL.chrome</object-name>
 		<object-name>engineR.chrome</object-name>
+	</animation>
+
+	<!--Reverse Thrust Animation-->
+	<animation>
+ 		<type>translate</type>
+ 		<object-name>eng.1.reverser</object-name>
+ 		<object-name>eng.2.reverser</object-name>
+ 		<property>/engines/engine[0]/reverser-pos-norm</property>
+		<property>/engines/engine[1]/reverser-pos-norm</property>
+ 		<interpolation>
+  		 <entry>
+    		 <ind>0</ind>
+     		<dep>0.0</dep>
+   		</entry>
+  		<entry>
+     		<ind>1</ind>
+     		<dep>0.6</dep>
+   		</entry>
+ 		</interpolation>
+ 		<axis>
+   			<x>1</x>
+   			<y>0</y>
+   			<z>0</z>
+ 		</axis>
 	</animation>
 	
 	<animation>
