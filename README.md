@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# FGAircraft|CSeries
-FlightGear Bombardier CSeries
-=======
 # FGAircraft | CSeries | A220
 FlightGear Bombardier CSeries / Airbus A220
 
