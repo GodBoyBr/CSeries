@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # FGAircraft|CSeries
 FlightGear Bombardier CSeries
+=======
+# FGAircraft | CSeries | A220
+FlightGear Bombardier CSeries / Airbus A220
+>>>>>>> 87d5ac10807e5abdf489717ded941c85061e5c7d
 
 ACJZA, Joshua Davidson (it0uchpods/411), Jonathan Redpath, D-ECHO, Pakistan-1, C-FWES
 
