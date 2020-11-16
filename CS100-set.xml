@@ -26,6 +26,8 @@
       <setting> 0.75 </setting>
       <setting> 1 </setting> 
   </spoiler>
+
+  <flight-recorder include="Systems/flight-recorder.xml"/>
     
         <model>
             <path>Aircraft/CSeries/Models/CS100.xml</path>
