@@ -141,6 +141,10 @@
             <signal>
                 <type>float</type><property type="string">controls/gear/maingear-steering-cmd-norm</property>
             </signal>
+            <signal>
+                <type>float</type>
+                <property>gear/gear/caster-angle-deg</property>
+            </signal>
 
             <signal>
                 <type>float</type>
