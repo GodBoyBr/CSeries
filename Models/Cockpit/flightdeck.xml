@@ -592,25 +592,25 @@
 		</axis>
 	</animation>
 	<animation>
-		<type>rotate</type>
+		<type>translate</type>
 		<object-name>LeftLeftPedal</object-name>
-                <object-name>RightLeftPedal</object-name>
+    <object-name>RightLeftPedal</object-name>
 		<property>/controls/gear/brake-left</property>
-		<factor>-30</factor>
+		<factor>-0.06</factor>
 		<axis>
-			<x>0</x>
-			<y>1</y>
+			<x>1</x>
+			<y>0</y>
 			<z>0</z>
 		</axis>
-		<center>
+		<!-- <center>
                     <x-m>0.00916</x-m>
                     <z-m>-0.5273</z-m>
-		</center>
+		</center> -->
 	</animation>
-        <animation>
+  <animation>
 		<type>translate</type>
 		<object-name>LeftRightPedal</object-name>
-                <object-name>RightRightPedal</object-name>
+    <object-name>RightRightPedal</object-name>
 		<property>/controls/flight/rudder</property>
                 <factor>-0.1</factor>
 		<axis>
@@ -620,20 +620,20 @@
 		</axis>
 	</animation>
 	<animation>
-		<type>rotate</type>
+		<type>translate</type>
 		<object-name>LeftRightPedal</object-name>
-                <object-name>RightRightPedal</object-name>
+    <object-name>RightRightPedal</object-name>
 		<property>/controls/gear/brake-right</property>
-		<factor>-30</factor>
+		<factor>-0.06</factor>
 		<axis>
-			<x>0</x>
-			<y>1</y>
+			<x>1</x>
+			<y>0</y>
 			<z>0</z>
 		</axis>
-		<center>
+		<!-- <center>
                     <x-m>0.00916</x-m>
                     <z-m>-0.5273</z-m>
-		</center>
+		</center> -->
 	</animation>
         <!--Multifunctional Panels left and right of autopilot panel-->
         <!--ND Control-->
