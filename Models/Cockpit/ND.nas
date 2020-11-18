@@ -72,6 +72,8 @@ var _list = setlistener("systems/electrical/outputs/efis", func() {
     var group = nd_display.cpt.createGroup();
     NDCpt.newMFD(group, nd_display.cpt);
     NDCpt.update();
+    setprop("/instrumentation/efis/inputs/nd-centered", 1);
+    setprop("/instrumentation/efis/mfd/display-mode", "MAP");
 
 
     var NDFo = ND.new("instrumentation/efis[1]", myCockpit_switches);
@@ -88,6 +90,7 @@ var _list = setlistener("systems/electrical/outputs/efis", func() {
     NDFo.newMFD(group, nd_display.fo);
     NDFo.update();
     setprop("/instrumentation/efis[1]/inputs/nd-centered", 1);
+    setprop("/instrumentation/efis[1]/mfd/display-mode", "PLAN");
 
     removelistener(_list); # run ONCE
 }); # fdm-initialized listener callback
