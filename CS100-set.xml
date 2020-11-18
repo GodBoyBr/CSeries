@@ -96,6 +96,9 @@
                 <name>Autopilot</name>
                 <path>Aircraft/CSeries/Systems/it-autoflight.xml</path>
             </autopilot>
+            <autopilot>
+				<path>Aircraft/CSeries/Systems/autospeedbrake.xml</path>
+			</autopilot>
         </systems>
 		
 		<instrumentation>
