@@ -5,6 +5,14 @@ ACJZA, Joshua Davidson (it0uchpods/411), Jonathan Redpath, D-ECHO, Pakistan-1, C
 
 This aircraft is equipped with IT-AUTOFLIGHT.
 
+# Download Instructions
+
+1. Download the zip file into your FG aircraft directory
+
+2. Unzip the file, softwares such as 7Zip are useful
+
+3. Rename the folder to **CSeries**
+
 *** 
 
 License: GPL2+
