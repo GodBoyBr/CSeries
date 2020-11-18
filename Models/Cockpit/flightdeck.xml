@@ -231,7 +231,9 @@
 	<animation>
 		<type>translate</type>
 		<object-name>spoiler</object-name>
-		<property>/controls/flight/spoilers</property>
+		<!-- <property>controls/flight/spoilers</property> -->
+    <property>surface-positions/left-speedbrake-pos-norm</property>
+    <property>surface-positions/right-speedbrake-pos-norm</property>
   <interpolation>
     <entry><ind> 0 </ind><dep> 0.0 </dep></entry>
     <entry><ind>  0.25 </ind><dep>   0.0128 </dep></entry>
