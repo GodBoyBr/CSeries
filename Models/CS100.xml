@@ -554,7 +554,7 @@
 		<object-name>wheelL</object-name>
 		<object-name>gearLD</object-name>
 		<object-name>gearLDdamper</object-name>
-                <property>gear/gear/compression-m</property>
+                <property>gear/gear[1]/compression-m</property>
 		<factor>1</factor>
 		<axis>
 			<x>0</x>
@@ -565,7 +565,7 @@
     <animation>
 		<type>rotate</type>
 		<object-name>gearLDdamper</object-name>
-                <property>gear/gear/compression-m</property>
+                <property>gear/gear[1]/compression-m</property>
 		<factor>80</factor>
 		<axis>
 			<x>0</x>
@@ -580,7 +580,7 @@
     <animation>
 		<type>rotate</type>
 		<object-name>gearLUdamper</object-name>
-                <property>gear/gear/compression-m</property>
+                <property>gear/gear[1]/compression-m</property>
 		<factor>-80</factor>
 		<axis>
 			<x>0</x>
@@ -598,7 +598,7 @@
 		<object-name>wheelR</object-name>
 		<object-name>gearRD</object-name>
 		<object-name>gearRDdamper</object-name>
-                <property>gear/gear/compression-m</property>
+                <property>gear/gear[2]/compression-m</property>
 		<factor>1</factor>
 		<axis>
 			<x>0</x>
@@ -609,7 +609,7 @@
     <animation>
 		<type>rotate</type>
 		<object-name>gearRDdamper</object-name>
-                <property>gear/gear/compression-m</property>
+                <property>gear/gear[2]/compression-m</property>
 		<factor>80</factor>
 		<axis>
 			<x>0</x>
@@ -624,7 +624,7 @@
     <animation>
 		<type>rotate</type>
 		<object-name>gearRUdamper</object-name>
-                <property>gear/gear/compression-m</property>
+                <property>gear/gear[2]/compression-m</property>
 		<factor>-80</factor>
 		<axis>
 			<x>0</x>
