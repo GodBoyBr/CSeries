@@ -25,10 +25,16 @@
 		<object-name>interior.005</object-name>
 		<object-name>cockpit</object-name>
             </effect>
+
+  <effect>
+	<inherits-from>Aircraft/CSeries/Models/Effects/reflect</inherits-from>
+	<!--Cockpit-->
+	<object-name>cockpit</object-name>
+  </effect>        
          
      <!--HUD-->
         <model>
-            <path>hud/hud.xml</path>
+            <path>Aircraft/Cseries/Models/Cockpit/hud/hud.xml</path>
             <offsets>
                     <x-m>11.445</x-m>
                     <y-m> -0.056</y-m>
@@ -36,7 +42,7 @@
             </offsets>
         </model>
         <model>
-            <path>hud/hud.xml</path>
+            <path>Aircraft/Cseries/Models/Cockpit/hud/hud.xml</path>
             <offsets>
                     <x-m>11.445</x-m>
                     <y-m> 0.913</y-m>
