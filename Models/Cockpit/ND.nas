@@ -91,6 +91,7 @@ var _list = setlistener("systems/electrical/outputs/efis", func() {
     NDFo.update();
     setprop("/instrumentation/efis[1]/inputs/nd-centered", 1);
     setprop("/instrumentation/efis[1]/mfd/display-mode", "PLAN");
+    setprop("/instrumentation/efis[1]/mfd/true-north", 0);
 
     removelistener(_list); # run ONCE
 }); # fdm-initialized listener callback

@@ -1932,6 +1932,17 @@
   </offsets>
 </model>
 
-
+<!--PFD R-->
+<model>
+  <name>pfdR</name>
+  <path>Aircraft/CSeries/Models/Cockpit/Instruments/pfd/pfdR.xml</path>
+  <offsets>
+    <x-m>-0.63969</x-m>
+    <!-- <y-m>0.98285</y-m> -->
+    <y-m>1.159</y-m>
+    <z-m>0.13887</z-m>
+	<pitch-deg>-7.5</pitch-deg>
+  </offsets>
+</model>
 	
 </PropertyList>
