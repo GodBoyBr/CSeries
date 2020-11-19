@@ -14,6 +14,8 @@ This aircraft is equipped with IT-AUTOFLIGHT.
 
 3. Rename the folder to **CSeries**
 
+![A220 Delta](https://pbs.twimg.com/media/EnMuqFNXcAAco96?format=jpg&name=large)
+
 *** 
 
 License: GPL2+
