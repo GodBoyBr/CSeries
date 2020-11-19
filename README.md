@@ -5,6 +5,8 @@ ACJZA, Joshua Davidson (it0uchpods/411), Jonathan Redpath, D-ECHO, Pakistan-1, W
 
 This aircraft is equipped with IT-AUTOFLIGHT.
 
+![A220 Delta](https://pbs.twimg.com/media/EnMt877W4AELNIy?format=jpg&name=small)
+
 # Download Instructions
 1. Download the zip file into your FG aircraft directory
 
