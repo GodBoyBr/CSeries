@@ -175,9 +175,9 @@
        </gear>
 
        <!--Max Fuel 21 805L-->
-       <tank x="2.5" y="3" z="-3.1259" jet="true" capacity="5451.25"/>
-       <tank x="2.5" y="-3" z="-3.1259" jet="true" capacity="5451.25"/>
-       <tank x="2.7" y="0" z="-0.5" jet="true"  capacity="10902.5"/>
+       <tank x="2.5" y="3" z="-3.1259" jet="true" capacity="11992.75"/>
+       <tank x="2.5" y="-3" z="-3.1259" jet="true" capacity="11992.75"/>
+       <tank x="2.7" y="0" z="-0.5" jet="true"  capacity="23985.5"/>
 
        <weight x="14.51701" y="0.0" z="-1.55091" mass-prop="/sim/weight[0]/weight-lb"/><!--Crew mass-->
        <weight x="5.9957"   y="0"   z="-2"       mass-prop="/sim/weight[1]/weight-lb"/><!--Passengers front mass-->
