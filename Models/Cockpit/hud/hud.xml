@@ -201,14 +201,17 @@
       <property>/systems/electrical/left-bus</property>
 <value>15</value>
 </greater-than>
+      <equals>  
       <property>/controls/switches/hud</property>
+      <value></value>
+      </equals>
       <not>
       <property>sim/crashed</property>
       </not>
-	<less-than>
+	<!-- <less-than>
 		<property>/controls/switches/hud-flip</property>
 		<value>0.35</value>
-	</less-than>		
+	</less-than>		 -->
      </and>
    </condition>
  </animation>
