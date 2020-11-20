@@ -1853,6 +1853,19 @@
 
 <animation>
 	<type>pick</type>
+	<object-name>fo.nav.display</object-name>
+	<action>
+		<button>0</button>
+		<repeatable>false</repeatable>
+		<binding>
+			<command>nasal</command>
+			<script>cseries.showNd();</script>
+		</binding>
+	</action>
+</animation>
+
+<animation>
+	<type>pick</type>
 	<object-name>pfdnav</object-name>
 	<action>
 		<button>0</button>
@@ -1867,6 +1880,17 @@
 <animation>
 		<type>material</type>
 		<object-name>pfdnav</object-name>
+		<emission>
+			<red>1</red>
+			<green>1</green>
+			<blue>1</blue>
+			<!-- <factor-prop>controls/lighting/instrument-norm</factor-prop> -->
+		</emission>
+	</animation>
+
+  <animation>
+		<type>material</type>
+		<object-name>fo.nav.display</object-name>
 		<emission>
 			<red>1</red>
 			<green>1</green>

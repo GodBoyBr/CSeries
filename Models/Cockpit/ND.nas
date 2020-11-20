@@ -2,6 +2,7 @@
 # storage container for all ND instances
 var placement_left = "mfdLnav";
 var placement_right = "pfdnav";
+var placement_fo = "fo.nav.display";
 var nd_display = {};
 
 ##
@@ -92,6 +93,26 @@ var _list = setlistener("systems/electrical/outputs/efis", func() {
     setprop("/instrumentation/efis[1]/inputs/nd-centered", 1);
     setprop("/instrumentation/efis[1]/mfd/display-mode", "PLAN");
     setprop("/instrumentation/efis[1]/mfd/true-north", 0);
+
+
+
+
+    var NDright = ND.new("instrumentation/efis[2]", myCockpit_switches);
+
+    nd_display.right = canvas.new({
+        "name": "ND",
+        "size": [1024, 1024],
+        "view": [1024, 1024],
+        "mipmapping": 1
+    });
+
+    nd_display.right.addPlacement({"node": placement_fo});
+    var group = nd_display.right.createGroup();
+    NDright.newMFD(group, nd_display.right);
+    NDright.update();
+    setprop("/instrumentation/efis[2]/inputs/nd-centered", 1);
+    setprop("/instrumentation/efis[2]/mfd/display-mode", "APP");
+    setprop("/instrumentation/efis[2]/mfd/true-north", 0);
 
     removelistener(_list); # run ONCE
 }); # fdm-initialized listener callback
