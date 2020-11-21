@@ -7,7 +7,7 @@
                     
     Dimensions: lenght: 35 m    heigth:  11.5   wingspan:35.1m   Fuselage diameter: 3.7m
     mass: empty: 84000lbs (guessed: 129000-14000 of fuel and 30 000 of passengers?); MTOW: 129000lbs
-    ceiling: 41000ft, 28000 for now because of engine issues
+    ceiling: 41000ft, 29000 for now because of engine issues
     range: 5741km
     engine:
         type=Pratt&Whitney PW1500G
@@ -36,7 +36,7 @@
        </approach>
 
     <!-- Cruise configuration-->
-       <cruise speed="447" alt="28000" fuel=".78">
+       <cruise speed="447" alt="29000" fuel=".78">
           <control-setting axis="/controls/engines/engine[0]/throttle-lever" value="0.8"/>
           <control-setting axis="/controls/engines/engine[1]/throttle-lever" value="0.8"/>
           <control-setting axis="/controls/flight/flaps" value="0.0"/>
