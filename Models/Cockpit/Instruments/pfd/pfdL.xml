@@ -2450,6 +2450,51 @@ G</text>
 			<z-m>-0.051</z-m>
 		</center>
 	</animation>
+	
+	<!--PFD Indicators-->
+<animation>
+  <type>select</type>
+  <object-name>spd</object-name>
+  <condition>
+	<equals>
+    <property>it-autoflight/at_master</property>
+	<value>1</value>
+    </equals>
+  </condition>
+</animation>
+
+<animation>
+  <type>select</type>
+  <object-name>fms1</object-name>
+  <condition>
+	<equals>
+    <property>it-autoflight/aplatmode</property>
+	<value>1</value>
+    </equals>
+  </condition>
+</animation>
+
+<animation>
+  <type>select</type>
+  <object-name>appr</object-name>
+  <condition>
+	<equals>
+    <property>it-autoflight/app1</property>
+	<value>1</value>
+    </equals>
+  </condition>
+</animation>
+
+<animation>
+  <type>select</type>
+  <object-name>ap</object-name>
+  <condition>
+	<equals>
+    <property>it-autoflight/ap_master</property>
+	<value>1</value>
+    </equals>
+  </condition>
+</animation>
 
 	<!-- Lightmaps -->
 	<effect>
