@@ -1957,6 +1957,28 @@
 </model>
 
 <!--PFD R-->
+<animation>
+  <type>select</type>
+  <object-name>pfdR.display</object-name>
+  <condition>
+    <less-than-equals>
+    <property>/systems/electrical/right-bus</property>
+    <value>10</value>
+    </less-than-equals>
+  </condition>
+</animation>
+<animation>
+  <type>select</type>
+  <object-name>pfdR</object-name>
+  <condition>
+    <greater-than>
+    <property>/systems/electrical/right-bus</property>
+    <value>10</value>
+    </greater-than>
+  </condition>
+</animation>
+
+
 <model>
   <name>pfdR</name>
   <path>Aircraft/CSeries/Models/Cockpit/Instruments/pfd/pfdR.xml</path>
@@ -1968,5 +1990,6 @@
 	<pitch-deg>-7.5</pitch-deg>
   </offsets>
 </model>
+
 	
 </PropertyList>
