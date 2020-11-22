@@ -52,7 +52,7 @@
 			<reference-dist>1</reference-dist>
 		</slats>
 		<!-- Speedbrakes/spoilers hydraulics -->
-<!-- 		<speedbrake>
+		<speedbrake>
 			<name>Left speedbrake in transit</name>
 			<path>Sounds/spoilers.wav</path>
 			<mode>in-transit</mode>
@@ -79,7 +79,7 @@
 				<y>3</y>
 				<z>0</z>
 			</position>
-		</speedbrake> -->
+		</speedbrake>
 		<!-- Switch effects -->
 		<click>
 			<name>Switch click</name>
@@ -142,13 +142,10 @@
 			<type>avionics</type>
 			<path>Sounds/autopilot-disconnect.wav</path>
 			<condition>
-				<equals>
-					<property>controls/autoflight/autopilot/engage</property>     
-					<value>0</value>
-				</equals>
+				<property>it-autoflight/apoffsound</property>     
 			</condition>
 			<volume>
-				<property>sim/model/sound-enabled</property>
+				<property>sim/current-view/internal</property>
 			</volume>
 		</alarm>
 		<altitude-alert>
