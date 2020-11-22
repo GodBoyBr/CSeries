@@ -24,8 +24,8 @@
      <property>orientation/roll-deg</property>
      <subtype>texrotate</subtype>
      <center>
-		<x>0.25</x>
-		<y>0.50</y>
+		<x>0.5</x>
+		<y>0.5</y>
 		<!-- <z>0.000128</z> -->
      </center>
      <axis>
