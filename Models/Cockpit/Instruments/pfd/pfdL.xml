@@ -2496,6 +2496,21 @@ G</text>
   </condition>
 </animation>
 
+  <animation>
+		<type>material</type>
+		<object-name>rect</object-name>
+		<object-name>spd</object-name>
+		<object-name>fms1</object-name>
+		<object-name>appr</object-name>
+		<object-name>ap</object-name>
+		<emission>
+			<red>1</red>
+			<green>1</green>
+			<blue>1</blue>
+			<!-- <factor-prop>controls/lighting/instrument-norm</factor-prop> -->
+		</emission>
+	</animation>
+
 	<!-- Lightmaps -->
 	<effect>
 		<inherits-from>Aircraft/CRJ700-family/CRJ700-Family/Models/Effects/CRJ700lightmap</inherits-from>
