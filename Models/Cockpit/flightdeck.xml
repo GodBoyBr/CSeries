@@ -1899,6 +1899,18 @@
 		</emission>
 	</animation>
 
+<animation>
+  <type>select</type>
+  <object-name>fo.nav.display</object-name>
+  <condition>
+    <greater-than-equals>
+    <property>/systems/electrical/right-bus</property>
+    <value>10</value>
+    </greater-than-equals>
+  </condition>
+</animation>
+
+
 <!-- N1 -->
 <model>
   <name>N1</name>
