@@ -405,7 +405,6 @@
             <file>Aircraft/CSeries/Nasal/doors.nas</file>
             <file>Aircraft/CSeries/Nasal/CS100liveries.nas</file>
             <file>Aircraft/CSeries/Nasal/registration.nas</file>  
-            <file>Aircraft/Cseries/Nasal/fg1000.nas</file>
 		</cseries>
 		<itaf>
             <file>Aircraft/CSeries/Nasal/it-autoflight.nas</file>
