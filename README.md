@@ -7,6 +7,8 @@ This aircraft is equipped with IT-AUTOFLIGHT.
 
 ![A220 Delta](https://pbs.twimg.com/media/EnMt877W4AELNIy?format=jpg&name=small)
 
+As of now, only the A220-100 is under development. The reason being that the A220-100 and the A220-300 have the exact same systems, just different flight models. When the A221 is developed to a decent state, then the A223 can be developed. 
+
 # Download Instructions
 1. Download the zip file into your FG aircraft directory
 
