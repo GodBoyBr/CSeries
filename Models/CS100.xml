@@ -202,6 +202,8 @@
                         <heading-deg>-30</heading-deg>
 		</offsets>
 	</model>
+
+
         <!--Select Animation-->
     <!-- ================================================================== -->
     <!-- ALS Lighting                                                       -->
@@ -316,6 +318,8 @@
 	<object-name>eng.1.reverser</object-name>
 	<object-name>eng.2.reverser</object-name>
     <object-name>enginefix.</object-name>
+	<!--Cockpit-->
+	<object-name>cockpit</object-name>
   </effect>
  <effect>
 	<inherits-from>Aircraft/CSeries/Models/Effects/reflectlightmap</inherits-from>
