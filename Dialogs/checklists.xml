@@ -770,7 +770,7 @@
 
     <item>
       <name>Flaps</name>
-      <value>2nd NOTCH DOWN</value>
+      <value>2nd - 4th NOTCH DOWN</value>
       <marker>
         <x-m>-0.9182</x-m>
         <y-m>0.1000</y-m>
@@ -778,10 +778,20 @@
         <scale>2.72</scale>
       </marker>
       <condition>
-        <equals>
+        <or>
+          <equals>
           <property>controls/flight/flaps</property>
-          <value>0.5</value>
-        </equals>
+          <value>0.4</value>
+          </equals>
+          <equals>
+          <property>controls/flight/flaps</property>
+          <value>0.6</value>
+          </equals>
+          <equals>
+          <property>controls/flight/flaps</property>
+          <value>0.8</value>
+          </equals>
+          </or>
       </condition>
       <binding>
         <command>property-interpolate</command>
