@@ -10,22 +10,43 @@
 		<flaps>
 			<name>Flaps in transit</name>
 			<path>Sounds/flaps.wav</path>
-			<mode>once</mode>
+			<mode>in-transit</mode>
 			<condition>
-				<and>
-					<property>controls/flight/flaps-start-snd</property>
-					<not><property>controls/flight/flaps-stop-snd</property></not>
-				</and>
+				<or>
+					<equals>
+					<property>controls/flight/flaps</property>
+					<value>0.2</value>
+					</equals>
+					<equals>
+					<property>controls/flight/flaps</property>
+					<value>0.4</value>
+					</equals>
+					<equals>
+					<property>controls/flight/flaps</property>
+					<value>0.6</value>
+					</equals>
+					<equals>
+					<property>controls/flight/flaps</property>
+					<value>0.8</value>
+					</equals>
+					<equals>
+					<property>controls/flight/flaps</property>
+					<value>1</value>
+					</equals>
+				</or>
 			</condition>
-			<position>
+			<!-- <position>
 				<x>3.8</x>
 				<y>0.01</y>
 				<z>-2.30</z>
-			</position>
+			</position> -->
+			<volume>
+				<property>sim/current-view/internal</property>
+			</volume>
 			<max-dist>20</max-dist>
 			<reference-dist>1</reference-dist>
 		</flaps>
-		<flapsStop>
+		<!-- <flapsStop>
 			<name>Flaps stopping</name>
 			<path>Sounds/flaps-stop1.wav</path>
 			<mode>once</mode>
@@ -37,8 +58,8 @@
 			</position>
 			<max-dist>20</max-dist>
 			<reference-dist>1</reference-dist>
-		</flapsStop>
-		<slats>
+		</flapsStop> -->
+		<!-- <slats>
 			<name>Slats in transit</name>
 			<path>Sounds/slats.wav</path>
 			<mode>in-transit</mode>		
@@ -50,7 +71,7 @@
 			</position>
 			<max-dist>20</max-dist>
 			<reference-dist>1</reference-dist>
-		</slats>
+		</slats> -->
 		<!-- Speedbrakes/spoilers hydraulics -->
 		<speedbrake>
 			<name>Left speedbrake in transit</name>
@@ -114,7 +135,7 @@
 			<path>Sounds/cabinalert.wav</path>
 			<condition>
 				<and>
-					<property>sim/sound/passenger-sign</property>
+					<property>controls/lighting/seatbelts</property>
 					<property>sim/current-view/internal</property>
 				</and>
 			</condition>
@@ -156,7 +177,7 @@
 				<property>sim/alarms/altitude-alert</property>
 			</condition>
 			<volume>
-				<property>sim/model/sound-enabled</property>
+				<property>sim/current-view/internal</property>
 			</volume>
 		</altitude-alert>
 		<!-- Speed callouts -->
