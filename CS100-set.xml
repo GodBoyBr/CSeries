@@ -104,6 +104,7 @@
 		<instrumentation>
 			<path>Aircraft/CSeries/Systems/instrumentation.xml</path>
 		</instrumentation>
+
         
         <!-- Save some properties when the simulator is shut down -->
         <aircraft-data>
@@ -404,7 +405,8 @@
             <file>Aircraft/CSeries/Nasal/systems.nas</file>
             <file>Aircraft/CSeries/Nasal/doors.nas</file>
             <file>Aircraft/CSeries/Nasal/CS100liveries.nas</file>
-            <file>Aircraft/CSeries/Nasal/registration.nas</file>  
+            <file>Aircraft/CSeries/Nasal/registration.nas</file> 
+            <file>Aircraft/CSeries/Nasal/flapsvspeeds.nas</file>
 		</cseries>
 		<itaf>
             <file>Aircraft/CSeries/Nasal/it-autoflight.nas</file>
@@ -425,5 +427,5 @@
 			<hood-rot>0</hood-rot>
 		</jetway-pos>
 	</aircraft>
-	
+
 </PropertyList>
