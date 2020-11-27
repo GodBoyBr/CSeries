@@ -176,6 +176,13 @@
                             <script>aircraft.livery.dialog.toggle()</script>
                         </binding>
                     </item>
+                    <item>
+                        <label>Balance Fuel</label>
+                        <binding>
+                            <command>nasal</command>
+                            <script>cseries.balancefuel;</script>
+                        </binding>
+                    </item>
                     <item n="10">
                         <label>Pushback</label>
                         <name>pushback</name>
@@ -407,6 +414,7 @@
             <file>Aircraft/CSeries/Nasal/CS100liveries.nas</file>
             <file>Aircraft/CSeries/Nasal/registration.nas</file> 
             <file>Aircraft/CSeries/Nasal/flapsvspeeds.nas</file>
+            <file>Aircraft/CSeries/Nasal/balancefuel.nas</file>
 		</cseries>
 		<itaf>
             <file>Aircraft/CSeries/Nasal/it-autoflight.nas</file>
