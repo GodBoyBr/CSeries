@@ -180,7 +180,7 @@
                         <label>Balance Fuel</label>
                         <binding>
                             <command>nasal</command>
-                            <script>cseries.balancefuel;</script>
+                            <script>cseries.balancefuel();</script>
                         </binding>
                     </item>
                     <item n="10">
