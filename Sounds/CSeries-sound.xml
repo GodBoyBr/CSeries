@@ -11,30 +11,9 @@
 			<name>Flaps in transit</name>
 			<path>Sounds/flaps.wav</path>
 			<mode>in-transit</mode>
-			<condition>
-				<or>
-					<equals>
-					<property>controls/flight/flaps</property>
-					<value>0.2</value>
-					</equals>
-					<equals>
-					<property>controls/flight/flaps</property>
-					<value>0.4</value>
-					</equals>
-					<equals>
-					<property>controls/flight/flaps</property>
-					<value>0.6</value>
-					</equals>
-					<equals>
-					<property>controls/flight/flaps</property>
-					<value>0.8</value>
-					</equals>
-					<equals>
-					<property>controls/flight/flaps</property>
-					<value>1</value>
-					</equals>
-				</or>
-			</condition>
+			<!-- <condition> -->
+			<property>surface-positions/flap-pos-norm</property>
+			<!-- </condition> -->
 			<!-- <position>
 				<x>3.8</x>
 				<y>0.01</y>
