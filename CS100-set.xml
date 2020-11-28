@@ -183,6 +183,15 @@
                             <script>cseries.balancefuel();</script>
                         </binding>
                     </item>
+                    <item>
+                        <label>Registration</label>
+                        <binding>
+                            <command>nasal</command>
+                            <script>var reg = gui.Dialog.new("/sim/gui/dialogs/CS100/menu/dialog", 
+                                            "Aircraft/CSeries/Systems/registration.xml");
+        				reg.open();</script>
+                        </binding>
+                    </item>
                     <item n="10">
                         <label>Pushback</label>
                         <name>pushback</name>
