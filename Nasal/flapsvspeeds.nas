@@ -41,7 +41,7 @@ settimer(vspeeds, 1);
         # Export the calculated V-speeds to the property-tree, for further use
  
         # Repeat the function each second
- 	# settimer(vspeeds, 1);
+ 	settimer(vspeeds, 1);
  }
  
  # Only start the function when the FDM is initialized, to prevent the problem of not-yet-created properties.
