@@ -33,9 +33,9 @@ settimer(vspeeds, 1);
 	V12 = (0.01*(WT-190.0))+97;
  	VR2 = (0.01*(WT-190.0))+112;
  	V22 = (0.01*(WT-190.0))+132;
-	setprop("/instrumentation/adc/reference/v1", V12);
- 	setprop("/instrumentation/adc/reference/vr", VR2);
- 	setprop("/instrumentation/adc/reference/v2", V22); 
+	setprop("/instrumentation/adc/reference/V1", V12);
+ 	setprop("/instrumentation/adc/reference/VR", VR2);
+ 	setprop("/instrumentation/adc/reference/V2", V22); 
  	
  
         # Export the calculated V-speeds to the property-tree, for further use
