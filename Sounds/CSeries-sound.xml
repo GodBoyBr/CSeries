@@ -9,16 +9,9 @@
 	<fx>
 		<flaps>
 			<name>Flaps in transit</name>
-			<path>Sounds/flaps.wav</path>
+			<path>Sounds/flaps-lever.wav</path>
 			<mode>in-transit</mode>
-			<!-- <condition> -->
-			<property>surface-positions/flap-pos-norm</property>
-			<!-- </condition> -->
-			<!-- <position>
-				<x>3.8</x>
-				<y>0.01</y>
-				<z>-2.30</z>
-			</position> -->
+			<property>controls/flight/flaps</property>
 			<volume>
 				<property>sim/current-view/internal</property>
 			</volume>
