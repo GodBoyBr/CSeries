@@ -45,7 +45,7 @@
 			<reference-dist>1</reference-dist>
 		</slats> -->
 		<!-- Speedbrakes/spoilers hydraulics -->
-		<speedbrake>
+		<!-- <speedbrake>
 			<name>Left speedbrake in transit</name>
 			<path>Sounds/spoilers.wav</path>
 			<mode>in-transit</mode>
@@ -72,7 +72,7 @@
 				<y>3</y>
 				<z>0</z>
 			</position>
-		</speedbrake>
+		</speedbrake> -->
 		<!-- Switch effects -->
 		<click>
 			<name>Switch click</name>
