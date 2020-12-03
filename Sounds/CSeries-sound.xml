@@ -774,7 +774,7 @@
 		</engine>
 		<engine>
 			<name>Engine 1 reverse thrust</name>
-			<path>Aircraft/CSeries/Sounds/reverse-thrust.wav</path>
+			<path>Aircraft/CSeries/Sounds/air-brakes.wav</path>
 			<mode>looped</mode>
 			<condition>
 				<and>
@@ -791,7 +791,7 @@
 			<volume>
 				<property>engines/engine[0]/rpm</property>
 				<offset>0</offset>
-				<factor>0.01</factor>
+				<factor>0.02</factor>
 			</volume>
 			<position>
 				<x>7.30</x>
@@ -883,7 +883,7 @@
 		</engine>
 		<engine>
 			<name>Engine 2 reverse thrust</name>
-			<path>Aircraft/CSeries/Sounds/reverse-thrust.wav</path>
+			<path>Aircraft/CSeries/Sounds/air-brakes.wav</path>
 			<mode>looped</mode>
 			<condition>
 				<and>
@@ -900,7 +900,7 @@
 			<volume>
 				<property>engines/engine[1]/rpm</property>
 				<offset>0</offset>
-				<factor>0.01</factor>
+				<factor>0.02</factor>
 			</volume>
 			<position>
 				<x>7.30</x>
