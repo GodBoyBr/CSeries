@@ -645,7 +645,7 @@ kids 0
 OBJECT poly
 name "ai.cursor.L"
 loc 0.00155155 0.0362589 0.596078
-texture "C:/Users/wesle/Documents/Desktop/185_n_COTTODESTE-BLACK-WHITE-black-minimale.jpg"
+texture "black_screen.jpg"
 crease 45.000000
 numvert 6
 0 0.00252353 0.00650835
@@ -668,7 +668,7 @@ kids 0
 OBJECT poly
 name "ai.cursor.R"
 loc 0.00155155 0.0361092 0.56964
-texture "C:/Users/wesle/Documents/Desktop/185_n_COTTODESTE-BLACK-WHITE-black-minimale.jpg"
+texture "black_screen.jpg"
 crease 45.000000
 numvert 6
 0 0.00252353 -0.0193727
@@ -691,7 +691,7 @@ kids 0
 OBJECT poly
 name "spd"
 loc 0.00363296 0.106488 0.64002
-texture "C:/Users/wesle/Documents/Desktop/CseriesSPD.png"
+texture "CseriesSPD.png"
 crease 45.000000
 numvert 4
 0 -0.00444278 -0.00794101
@@ -710,7 +710,7 @@ kids 0
 OBJECT poly
 name "fms1"
 loc 0.00281931 0.106492 0.597821
-texture "C:/Users/wesle/Documents/Desktop/fms1.png"
+texture "fms1.png"
 crease 45.000000
 numvert 4
 0 -0.00891958 -0.013947
@@ -748,7 +748,7 @@ kids 0
 OBJECT poly
 name "rect"
 loc 0.00181123 0.105629 0.573474
-texture "C:/Users/wesle/Documents/FlightGear 2020.3.2/data/Aircraft/CSeries/CSeries/Models/Cockpit/screen.png"
+texture "PFD.png"
 crease 45.000000
 numvert 4
 0 -0.00631936 -0.10256
@@ -767,7 +767,7 @@ kids 0
 OBJECT poly
 name "appr"
 loc 0.00271685 0.106016 0.618826
-texture "C:/Users/wesle/Documents/Desktop/appr.png"
+texture "appr.png"
 crease 45.000000
 numvert 4
 0 -0.00624046 -0.0103191
@@ -786,7 +786,7 @@ kids 0
 OBJECT poly
 name "ap"
 loc 0.00271685 0.1069 0.576291
-texture "C:/Users/wesle/Documents/Desktop/ap.png"
+texture "ap.png"
 crease 45.000000
 numvert 4
 0 -0.0068728 -0.00657028
