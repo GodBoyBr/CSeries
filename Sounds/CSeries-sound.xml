@@ -167,7 +167,7 @@
 					</or>
 					<less-than>
 						<property alias="/params/airspeed-kt" />
-						<property>autopilot/internal/lookahead-5-sec-airspeed-kt</property>
+						<property>it-autoflight/internal/lookahead-5-sec-airspeed-kt</property>
 					</less-than>
 					<greater-than>
 						<property alias="/params/airspeed-kt" />
@@ -181,12 +181,16 @@
 			</condition>
 		</callout>
 		<callout>
-			<name>V1</name>
+			<name>V1-3</name>
 			<mode>once</mode>
 			<type>avionics</type>
 			<path>Sounds/v1.wav</path>
 			<condition>
 				<and>
+					<equals>
+						<property>controls/flight/flaps</property>
+						<value>0.6</value>
+					</equals>
 					<or>
 						<property>gear/gear[0]/wow</property>
 						<property>gear/gear[1]/wow</property>
@@ -194,15 +198,46 @@
 					</or>
 					<less-than>
 						<property alias="/params/airspeed-kt" />
-						<property>autopilot/internal/lookahead-5-sec-airspeed-kt</property>
+						<property>it-autoflight/internal/lookahead-5-sec-airspeed-kt</property>
 					</less-than>
 					<greater-than-equals>
 						<property alias="/params/airspeed-kt" />
-						<property>instrumentation/adc/reference/v1</property>
+						<property>instrumentation/adc/reference/V1</property>
 					</greater-than-equals>
 					<less-than>
 						<property alias="/params/airspeed-kt" />
-						<property>instrumentation/adc/reference/vr</property>
+						<property>instrumentation/adc/reference/VR</property>
+					</less-than>
+				</and>
+			</condition>
+		</callout>
+		<callout>
+			<name>V1-4</name>
+			<mode>once</mode>
+			<type>avionics</type>
+			<path>Sounds/v1.wav</path>
+			<condition>
+				<and>
+					<equals>
+						<property>controls/flight/flaps</property>
+						<value>0.8</value>
+					</equals>
+					<or>
+						<property>gear/gear[0]/wow</property>
+						<property>gear/gear[1]/wow</property>
+						<property>gear/gear[2]/wow</property>
+					</or>
+					<less-than>
+						<property alias="/params/airspeed-kt" />
+						<property>it-autoflight/internal/lookahead-5-sec-airspeed-kt</property>
+					</less-than>
+					<greater-than-equals>
+						<property alias="/params/airspeed-kt" />
+						<property>instrumentation/adc/reference/flaps/v1</property>
+					</greater-than-equals>
+					<less-than>
+						<property alias="/params/airspeed-kt" />
+						<property>instrumentation/adc/reference/flaps/vr</property>
 					</less-than>
 				</and>
 			</condition>
