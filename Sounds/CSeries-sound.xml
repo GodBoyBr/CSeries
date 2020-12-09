@@ -7,6 +7,114 @@
 		<airspeed-kt>velocities/airspeed-kt</airspeed-kt>
 	</params>
 	<fx>
+						<!-- Whale sound when spooling -->
+		<spool>
+		<name>e1 whale spool outside</name>
+			<path>Aircraft/CSeries/Sounds/whale.wav</path>
+			<mode>once</mode>
+			<condition>
+				<and>
+					<not>
+					<property>sim/current-view/internal</property>
+					</not>
+					<property>gear/gear[0]/wow</property>
+					<property>gear/gear[1]/wow</property>
+					<property>gear/gear[2]/wow</property>	
+					
+					<greater-than>
+						<property>engines/engine/rpm</property>
+						<value>30</value>
+					</greater-than> 
+					<less-than>
+						<property>engines/engine/rpm</property>
+						<value>60</value>
+					</less-than>
+				</and>
+			</condition>
+			<volume>
+			<factor>0.4</factor>
+			</volume>
+		</spool>
+
+		<spool>
+		<name>e2 whale spool outside</name>
+			<path>Aircraft/CSeries/Sounds/whale.wav</path>
+			<mode>once</mode>
+			<condition>
+				<and>
+					<not>
+					<property>sim/current-view/internal</property>
+					</not>
+					<property>gear/gear[0]/wow</property>
+					<property>gear/gear[1]/wow</property>
+					<property>gear/gear[2]/wow</property>	
+					
+					<greater-than>
+						<property>engines/engine[1]/rpm</property>
+						<value>30</value>
+					</greater-than> 
+					<less-than>
+						<property>engines/engine[1]/rpm</property>
+						<value>60</value>
+					</less-than>
+				</and>
+			</condition>
+			<volume>
+			<factor>0.4</factor>
+			</volume>
+		</spool>
+
+		<spool>
+		<name>e1 whale spool inside</name>
+			<path>Aircraft/CSeries/Sounds/whale.wav</path>
+			<mode>once</mode>
+			<condition>
+				<and>
+					<property>sim/current-view/internal</property>
+					<property>gear/gear[0]/wow</property>
+					<property>gear/gear[1]/wow</property>
+					<property>gear/gear[2]/wow</property>	
+					
+					<greater-than>
+						<property>engines/engine/rpm</property>
+						<value>30</value>
+					</greater-than> 
+					<less-than>
+						<property>engines/engine/rpm</property>
+						<value>60</value>
+					</less-than>
+				</and>
+			</condition>
+			<volume>
+			<factor>0.2</factor>
+			</volume>
+		</spool>
+
+		<spool>
+		<name>e2 whale spool inside</name>
+			<path>Aircraft/CSeries/Sounds/whale.wav</path>
+			<mode>once</mode>
+			<condition>
+				<and>
+					<property>sim/current-view/internal</property>
+					<property>gear/gear[0]/wow</property>
+					<property>gear/gear[1]/wow</property>
+					<property>gear/gear[2]/wow</property>	
+					<greater-than>
+						<property>engines/engine[1]/rpm</property>
+						<value>30</value>
+					</greater-than> 
+					<less-than>
+						<property>engines/engine[1]/rpm</property>
+						<value>60</value>
+					</less-than>
+				</and>
+			</condition>
+			<volume>
+			<factor>0.2</factor>
+			</volume>
+		</spool>
+
 		<flaps>
 			<name>Flaps in transit</name>
 			<path>Sounds/flaps-lever.wav</path>
@@ -726,6 +834,7 @@
 				<z>-0.70</z>
 			</position>
 		</apu>
+
 		<!-- Engine 1 external sound -->
 		<engine>
 			<name>Engine 1 sound 1 external</name>
@@ -916,6 +1025,8 @@
 				<outer-gain>0.1</outer-gain>
 			</orientation-->
 		</engine>
+		
+
 		<engine>
 			<name>Engine 2 reverse thrust</name>
 			<path>Aircraft/CSeries/Sounds/air-brakes.wav</path>
