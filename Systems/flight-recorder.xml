@@ -49,7 +49,9 @@
                     <type>bool</type><property type="string">engines/engine[%i]/run</property>
                 </signal>
             </signals>
-
+            <signal>
+                <type>double</type><property>systems/shake/shaking</property>
+            </signal>
             <signal>
                 <type>bool</type><property type="string">controls/electric/APU-generator</property>
             </signal>
