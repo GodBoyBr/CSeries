@@ -36,7 +36,7 @@
        </approach>
 
     <!-- Cruise configuration-->
-       <cruise speed="447" alt="29000" fuel=".78">
+       <cruise speed="447" alt="41000" fuel=".78">
           <control-setting axis="/controls/engines/engine[0]/throttle-lever" value="0.8"/>
           <control-setting axis="/controls/engines/engine[1]/throttle-lever" value="0.8"/>
           <control-setting axis="/controls/flight/flaps" value="0.0"/>
