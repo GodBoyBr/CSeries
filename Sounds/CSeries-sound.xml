@@ -708,7 +708,7 @@
 		</rumble>		
 		
 		
-		<gear><!-- gear up/dn; should be replaced with better sounds -->
+		<gear>
 			<name>Gear in transit</name>
 			<path>Sounds/gear.wav</path>
 			<mode>in-transit</mode>
