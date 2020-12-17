@@ -1,7 +1,7 @@
 # CSeries | A220
 FlightGear [Bombardier CSeries / Airbus A220](http://wiki.flightgear.org/Bombardier_CSeries)
 
-ACJZA, Joshua Davidson (it0uchpods/411), Jonathan Redpath, D-ECHO, Pakistan-1, Wesley Ou (C-FWES)
+ACJZA, Joshua Davidson (Octal450), Jonathan Redpath, D-ECHO, Pakistan-1, Wesley Ou (C-FWES)
 
 This aircraft is equipped with IT-AUTOFLIGHT.
 
