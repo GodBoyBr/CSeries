@@ -11,7 +11,7 @@ setprop("/controls/autobrake/setting", 0);
 
 var absetting = getprop("/autopilot/autobrake/step");
 
-if ((getprop("/velocities/airspeed-kt") >= 40) and (getprop("gear/gear[0]/rollspeed-ms") > 5)) {
+if ((getprop("/velocities/airspeed-kt") >= 70) and (getprop("gear/gear[0]/rollspeed-ms") > 5)) {
 
 # LOW 1
 if (absetting == 1.0) {
