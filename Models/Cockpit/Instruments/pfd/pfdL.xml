@@ -2496,6 +2496,18 @@ G</text>
   </condition>
 </animation>
 
+
+<animation>
+  <type>select</type>
+  <object-name>hdg</object-name>
+  <condition>
+	<equals>
+    <property>it-autoflight/aplatmode</property>
+	<value>0</value>
+    </equals>
+  </condition>
+</animation>
+
   <animation>
 		<type>material</type>
 		<object-name>rect</object-name>
@@ -2503,6 +2515,7 @@ G</text>
 		<object-name>fms1</object-name>
 		<object-name>appr</object-name>
 		<object-name>ap</object-name>
+		<object-name>hdg</object-name>
 		<emission>
 			<red>1</red>
 			<green>1</green>
