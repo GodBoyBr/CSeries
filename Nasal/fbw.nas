@@ -24,3 +24,7 @@ var altitudeagl = getprop("position/altitude-agl-ft");
 # Throttle Position
 var throttlepos1 = getprop("controls/engines/engine[0]/throttle");
 var throttlepos2 = getprop("controls/engines/engine[1]/throttle");
+
+# Wind speed and position
+var winddir = getprop("environment/wind-from-heading-deg");
+var windspeed = getprop("environment/wind-speed-kt");
