@@ -7,6 +7,7 @@
                     
     Dimensions: lenght: 35 m    heigth:  11.5   wingspan:35.1m   Fuselage diameter: 3.7m
     mass: empty: 84000lbs (guessed: 129000-14000 of fuel and 30 000 of passengers?); MTOW: 129000lbs
+    actual mass: empty 73400 lbs, ~48000 lb of fuel
     ceiling: 41000ft, 29000 for now because of engine issues
     range: 5741km
     engine:
@@ -22,7 +23,7 @@
         -->
             
 
-    <airplane mass="73400">
+    <airplane mass="90000">
 
     <!-- Approach configuration -->
         <approach speed="101" aoa="6.0" fuel="0.6"> 
