@@ -22,7 +22,7 @@
         -->
             
 
-    <airplane mass="90000">
+    <airplane mass="73400">
 
     <!-- Approach configuration -->
         <approach speed="101" aoa="6.0" fuel="0.6"> 
