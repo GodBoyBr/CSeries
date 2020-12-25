@@ -1907,6 +1907,7 @@
   <animation>
 		<type>material</type>
 		<object-name>fo.nav.display</object-name>
+    <object-name>mfdR.display</object-name>
 		<emission>
 			<red>1</red>
 			<green>1</green>
