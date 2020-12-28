@@ -324,11 +324,11 @@
 
     <item>
         <name>Left N1</name>
-      <value>Greater or equals 22%</value>
+      <value>Greater or equals 21%</value>
       <condition>
           <greater-than-equals>
 		<property>engines/engine/rpm</property>
-                <value>22</value>
+                <value>21</value>
             </greater-than-equals>
       </condition>
     </item>
@@ -401,11 +401,11 @@
 
     <item>
         <name>Right N1</name>
-      <value>Greater or equals 22%</value>
+      <value>Greater or equals 21%</value>
       <condition>
           <greater-than-equals>
 		<property>engines/engine[1]/rpm</property>
-                <value>22</value>
+                <value>21</value>
             </greater-than-equals>
       </condition>
     </item>
