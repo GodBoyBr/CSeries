@@ -6,7 +6,7 @@
         <livery>
             <name type="string">Delta Airlines</name>
             <texture>Liveries/CS100/delta.png</texture>
-            <texture-engine>Liveries/CS100/engines-swiss.png</texture-engine>
+            <texture-engine>Liveries/CS100/engines-delta.png</texture-engine>
         </livery>
     </model>
 </sim>
