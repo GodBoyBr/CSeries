@@ -426,6 +426,7 @@
             <file>Aircraft/CSeries/Nasal/balancefuel.nas</file>
             <file>Aircraft/CSeries/Nasal/shake.nas</file>
             <file>Aircraft/CSeries/Nasal/autobrake.nas</file>
+            <file>Aircraft/CSeries/Nasal/fbw.nas</file>
 		</cseries>
 		<itaf>
             <file>Aircraft/CSeries/Nasal/it-autoflight.nas</file>
