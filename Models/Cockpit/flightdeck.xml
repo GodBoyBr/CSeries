@@ -21,6 +21,8 @@
          <inherits-from>Aircraft/CSeries/Models/Effects/interior-shadow</inherits-from>
 		<object-name>throttleL</object-name>
 		<object-name>throttleR</object-name>
+    <object-name>toga1</object-name>
+    <object-name>toga2</object-name>
 		<object-name>interior.002</object-name>
 		<object-name>interior.005</object-name>
 		<object-name>cockpit</object-name>
@@ -73,6 +75,7 @@
 	<animation>
 		<type>rotate</type>
 		<object-name>throttleL</object-name>
+    <object-name>toga1</object-name>
 		<property>/controls/engines/engine/throttle</property>
                 <condition><not>
                         <property>/controls/engines/engine/reverser</property></not>
@@ -91,6 +94,7 @@
 	<animation>
 		<type>rotate</type>
 		<object-name>throttleL</object-name>
+    <object-name>toga1</object-name>
 		<property>/controls/engines/engine/throttle</property>
                 <condition>
                         <property>/controls/engines/engine/reverser</property>
@@ -181,6 +185,7 @@
 	<animation>
 		<type>rotate</type>
 		<object-name>throttleL</object-name>
+    <object-name>toga1</object-name>
 		<property>/controls/engines/engine/reverser</property>
 		<factor>3.9</factor>
 		<axis>
@@ -196,6 +201,7 @@
 	<animation>
 		<type>rotate</type>
 		<object-name>throttleR</object-name>
+    <object-name>toga2</object-name>
 		<property>/controls/engines/engine[1]/throttle</property>
                 <condition><not>
                         <property>/controls/engines/engine[1]/reverser</property></not>
@@ -214,6 +220,7 @@
 	<animation>
 		<type>rotate</type>
 		<object-name>throttleR</object-name>
+    <object-name>toga2</object-name>
 		<property>/controls/engines/engine[1]/throttle</property>
                 <condition>
                         <property>/controls/engines/engine[1]/reverser</property>
@@ -233,6 +240,7 @@
 	<animation>
 		<type>rotate</type>
 		<object-name>throttleR</object-name>
+    <object-name>toga2</object-name>
 		<property>/controls/engines/engine[1]/reverser</property>
 		<factor>3.9</factor>
 		<axis>
