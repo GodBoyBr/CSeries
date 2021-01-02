@@ -1138,6 +1138,21 @@
 			</orientation-->
 		</engine>
 
+		<engine>
+			<name>TOGA Switch</name>
+			<path>Aircraft/CSeries/Sounds/button.wav</path>
+			<mode>once</mode>
+			<condition>
+			<or>
+				<property>controls/engines/engine[0]/toga</property>
+				<property>controls/engines/engine[1]/toga</property>
+			</or>
+			<and>
+				<property>sim/current-view/internal</property>
+			</and>
+			</condition>
+		</engine>
+
 		<!-- Gear touchdown -->
 		<gear>
 			<name>Nose gear touchdown</name>
