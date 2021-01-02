@@ -301,12 +301,14 @@
                 <fire-bottle-discharge-cover type="bool">false</fire-bottle-discharge-cover>
                 <thrust-mode type="int">0</thrust-mode>
                 <reverser-armed type="bool">true</reverser-armed>
+                <toga type="bool">0</toga>
             </engine>
             <engine n="1">
                 <fire-bottle-discharge-armed type="bool">false</fire-bottle-discharge-armed>
                 <fire-bottle-discharge-cover type="bool">false</fire-bottle-discharge-cover>
                 <thrust-mode type="int">0</thrust-mode>
                 <reverser-armed type="bool">true</reverser-armed>
+                <toga type="bool">0</toga>
             </engine>
             <start1 type="bool">0</start1>
             <start2 type="bool">0</start2>

@@ -76,6 +76,7 @@
 		<type>rotate</type>
 		<object-name>throttleL</object-name>
     <object-name>toga1</object-name>
+    <object-name>togaswitch1</object-name>
 		<property>/controls/engines/engine/throttle</property>
                 <condition><not>
                         <property>/controls/engines/engine/reverser</property></not>
@@ -95,6 +96,7 @@
 		<type>rotate</type>
 		<object-name>throttleL</object-name>
     <object-name>toga1</object-name>
+    <object-name>togaswitch1</object-name>
 		<property>/controls/engines/engine/throttle</property>
                 <condition>
                         <property>/controls/engines/engine/reverser</property>
@@ -109,6 +111,54 @@
 			<x-m>-0.14042</x-m>
 			<z-m>-0.25927</z-m>
 		</center>
+	</animation>
+
+  <animation>
+		<type>pick</type>
+		<object-name>togaswitch1</object-name>
+		<action>
+      <button>0</button>
+      <repeatable type="bool">false</repeatable>
+      <visible>0</visible>
+			<binding>
+				<command>property-assign</command>
+		    <property>/controls/engines/engine[0]/throttle</property>
+        <value>0.9</value>
+			</binding>
+      <binding>
+				<command>property-assign</command>
+        <property>/controls/engines/engine[1]/throttle</property>
+        <value>0.9</value>
+			</binding>
+			<binding>
+				<command>property-toggle</command>
+		    <property>controls/engines/engine[0]/toga</property>
+			</binding>
+		</action>
+	</animation>
+
+   <animation>
+		<type>pick</type>
+		<object-name>togaswitch2</object-name>
+		<action>
+      <button>0</button>
+      <repeatable type="bool">false</repeatable>
+      <visible>0</visible>
+			<binding>
+				<command>property-assign</command>
+        <property>/controls/engines/engine[1]/throttle</property>
+        <value>0.9</value>
+			</binding>
+    	<binding>
+				<command>property-assign</command>
+        <property>/controls/engines/engine[0]/throttle</property>
+        <value>0.9</value>
+			</binding>
+			<binding>
+				<command>property-toggle</command>
+		    <property>controls/engines/engine[1]/toga</property>
+			</binding>
+		</action>
 	</animation>
 
   <!-- Sidestick Left -->
@@ -186,6 +236,7 @@
 		<type>rotate</type>
 		<object-name>throttleL</object-name>
     <object-name>toga1</object-name>
+    <object-name>togaswitch1</object-name>
 		<property>/controls/engines/engine/reverser</property>
 		<factor>3.9</factor>
 		<axis>
@@ -202,6 +253,7 @@
 		<type>rotate</type>
 		<object-name>throttleR</object-name>
     <object-name>toga2</object-name>
+    <object-name>togaswitch2</object-name>
 		<property>/controls/engines/engine[1]/throttle</property>
                 <condition><not>
                         <property>/controls/engines/engine[1]/reverser</property></not>
@@ -221,6 +273,7 @@
 		<type>rotate</type>
 		<object-name>throttleR</object-name>
     <object-name>toga2</object-name>
+    <object-name>togaswitch2</object-name>
 		<property>/controls/engines/engine[1]/throttle</property>
                 <condition>
                         <property>/controls/engines/engine[1]/reverser</property>
@@ -241,6 +294,7 @@
 		<type>rotate</type>
 		<object-name>throttleR</object-name>
     <object-name>toga2</object-name>
+    <object-name>togaswitch2</object-name>
 		<property>/controls/engines/engine[1]/reverser</property>
 		<factor>3.9</factor>
 		<axis>
