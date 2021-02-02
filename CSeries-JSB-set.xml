@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- Bombardier C-series -->
+<!--CS100-->
+<PropertyList>
+    <sim include="Systems/CSeries-views.xml">
+        <description>Bombardier CS100 JSBSim</description>
+        <author>ACJZA, Joshua Davidson (it0uchpods/411), Jonathan Redpath, D-ECHO, Pakistan-1, Gabriel Hernandez</author>
+        <status>dev</status>
+        <aircraft-version>0.1</aircraft-version>
+		
+        <flight-model>jsb</flight-model>
+        <aero>CS100-JSB</aero>
+    <flaps>
+      <setting> 0.0 </setting>
+      <setting> 0.2 </setting>
+      <setting> 0.4 </setting> 
+      <setting> 0.6 </setting>
+      <setting> 0.8 </setting>
+      <setting> 1 </setting> 
+    </flaps>
+    <spoiler>
+      <setting> 0.0 </setting>
+      <setting> 0.25 </setting>
+      <setting> 0.5 </setting> 
+      <setting> 0.75 </setting>
+      <setting> 1 </setting> 
+  </spoiler>
+    
+        <model>
+            <path>Aircraft/CSeries/Models/CS100.xml</path>
+            <livery>
+                <file type="string">bombardier</file>
+            </livery>
+            <limits>
+                <!--According to the notes next to the flaps-->
+                <max-flap-extension-speed>
+                    <flaps>0.2</flaps>
+                    <speed>230</speed>
+                </max-flap-extension-speed>
+                <max-flap-extension-speed>
+                    <flaps>0.4</flaps>
+                    <speed>220</speed>
+                </max-flap-extension-speed>
+                <max-flap-extension-speed>
+                    <flaps>0.6</flaps>
+                    <speed>210</speed>
+                </max-flap-extension-speed>
+                <max-flap-extension-speed>
+                    <flaps>0.8</flaps>
+                    <speed>190</speed>
+                </max-flap-extension-speed>
+                <max-flap-extension-speed>
+                    <flaps>1.000</flaps>
+                    <speed>170</speed>
+                </max-flap-extension-speed>
+                <!--according to https://en.wikipedia.org/wiki/Bombardier_CSeries#Specifications-->
+				<mtow-lb>134000</mtow-lb>
+				<mlw-lb>15550</mlw-lb>
+            </limits>
+            <start-idling type="bool">false</start-idling>
+            <door n="0">
+                    <position-x-m>-12.39652</position-x-m>
+                    <position-y-m>-1.61591</position-y-m>
+                    <position-z-m>-1.59743</position-z-m>
+                    <jetway-hood-deg>5</jetway-hood-deg>
+            </door>
+            <rendering>
+                <reflection-enabled type="int">1</reflection-enabled>
+                <reflection-type type="int">2</reflection-type>
+                <reflection-dynamic type="int">1</reflection-dynamic>
+                <reflection-correction type="float">0.1</reflection-correction>
+                <reflection-fresnel type="float">0.5</reflection-fresnel>
+                <reflection-fresnel-factor type="float">1.0</reflection-fresnel-factor>
+                <reflection-rainbow type="float">0.1</reflection-rainbow>
+                <reflection-noise type="float">0.05</reflection-noise>
+                <ambient-correction type="float">0.2</ambient-correction>
+            </rendering>
+        </model>
+		
+		<startup>
+                    <splash-texture>Aircraft/CSeries/CS100.png</splash-texture>
+		</startup>
+		
+        <systems>
+            <!-- Disable the generic electrical system -->
+            <electrical>
+                <path></path>
+            </electrical>
+            <autopilot>
+                <name>Autopilot</name>
+                <path>Aircraft/CSeries/Systems/it-autoflight.xml</path>
+            </autopilot>
+            <autopilot n="1">
+                    <path>Aircraft/A320Family/Systems/it-fbw.xml</path>
+            </autopilot>
+        </systems>
+		
+		<instrumentation>
+			<path>Aircraft/CSeries/Systems/instrumentation.xml</path>
+		</instrumentation>
+        
+        <!-- Save some properties when the simulator is shut down -->
+        <aircraft-data>
+            <path>/sim/rendering/aircraft-reflect</path>
+            <path>/sim/weight[0]/weight-lb</path>
+            <path>/sim/weight[1]/weight-lb</path>
+            <path>/sim/weight[2]/weight-lb</path>
+            <path>/sim/weight[3]/weight-lb</path>
+            <path>/sim/weight[4]/weight-lb</path>
+            <path>/consumables/fuel/tank/level-norm</path>
+            <path>/consumables/fuel/tank[1]/level-norm</path>
+        </aircraft-data>
+        
+		<sound>
+			<path>Aircraft/CSeries/Sounds/CSeries-sound.xml</path>
+		</sound>
+
+        <dimensions>
+            <radius-m type="float">35.1</radius-m>
+        </dimensions>
+
+        <weight n="0"><!--Crew weight-->
+            <name>Crew</name>
+            <weight-lb>360</weight-lb>
+            <max-lb>500</max-lb>
+            <min-lb>100</min-lb>
+        </weight>
+
+        <weight n="1"><!--Passengers front weight-->
+            <name>Passengers Front</name>
+            <weight-lb>9000</weight-lb>
+            <max-lb>10000</max-lb>
+            <min-lb>0</min-lb>
+        </weight>
+        <weight n="2"><!--Passengers rear weight-->
+            <name>Passenger Rear</name>
+            <weight-lb>9000</weight-lb>
+            <max-lb>10000</max-lb>
+            <min-lb>0</min-lb>
+        </weight>
+        <weight n="3"><!--Cargo front weight-->
+            <weight-lb>2000</weight-lb>
+            <name>Cargo Front</name>
+            <max-lb>4000</max-lb>
+            <min-lb>0</min-lb>
+        </weight>
+        <weight n="4"><!--Cargo rear weight-->
+            <name>Cargo Rear</name>
+            <weight-lb>2000</weight-lb>
+            <max-lb>4000</max-lb>
+            <min-lb>0</min-lb>
+        </weight>
+
+        <menubar>
+            <default>
+                <menu n="100">
+                    <label>Bombardier CSeries 100</label>
+                    <item>
+                        <label>Autostart</label>
+                        <binding>
+                            <command>nasal</command>
+                            <script>autochecklist.complete_checklists("startup");</script>
+                        </binding>
+                    </item>
+                    <item>
+                        <label>Select Livery</label>
+                        <binding>
+                            <command>nasal</command>
+                            <script>aircraft.livery.dialog.toggle()</script>
+                        </binding>
+                    </item>
+                    <item n="10">
+                        <label>Pushback</label>
+                        <name>pushback</name>
+                        <binding>
+                        <command>dialog-show</command>
+                        <dialog-name>pushback</dialog-name>
+                        </binding>
+                    </item>
+                    <item>
+                        <label>Airport Operations</label>
+                        <binding>
+                        <command>nasal</command>
+                            <script>
+                            var mal = gui.Dialog.new("/sim/gui/dialogs/CS100/menu/dialog", 
+                                            "Aircraft/CSeries/Dialogs/operations-dlg.xml");
+        				mal.open();
+                            </script>
+                        </binding>
+                    </item>
+                    <item>
+			<name>lights</name>
+			<label>Lights</label>
+				<binding>
+					<command>nasal</command>
+					<script>
+						var lights = gui.Dialog.new("sim/gui/dialogs/lights/dialog", "Aircraft/CSeries/Systems/lights-dlg.xml");
+						lights.open();
+					</script>
+				</binding>
+		  </item>
+                    <item>
+		      <label>Announcements</label>
+		      <binding>
+					<command>nasal</command>
+					<script>
+						var mal = gui.Dialog.new("/sim/gui/dialogs/announcements/menu/dialog", "Aircraft/CSeries/Dialogs/announcements-dialog.xml");
+						mal.open();
+		       </script>
+		      </binding>
+                    </item> 
+                    <item>
+						<label>Failures</label>
+						<binding>
+							<command>nasal</command>
+							<script>
+							 var failures = gui.Dialog.new("sim/gui/dialogs/failures/dialog", "Aircraft/CSeries/Systems/failures-dlg.xml");
+							 failures.open();
+							</script>
+						</binding>
+					</item>
+                    <item>
+                        <label>Enable/Disable aircraft reflect</label>
+                        <binding>
+                        <command>property-toggle</command>
+                        <property>/sim/rendering/aircraft-reflect</property>
+                        </binding>
+                    </item>
+                </menu>
+            </default>
+        </menubar>
+            
+            <view n="0">
+            <internal archive="y">true</internal>
+            <config>
+                <x-offset-m archive="y"> -0.5 </x-offset-m> <!-- Right -->
+                <y-offset-m archive="y">  -1.52077 </y-offset-m> <!-- Up    -->
+                <z-offset-m archive="y"> -14.2 </z-offset-m> <!-- Back  -->
+                <pitch-offset-deg> -10 </pitch-offset-deg>
+                <default-field-of-view-deg> 65 </default-field-of-view-deg>
+            </config>
+            </view>
+	    <chase-distance-m>-50</chase-distance-m>
+            
+            <checklists include="Dialogs/checklists.xml"/>
+    </sim>  
+	
+<instrumentation include="Systems/init-instrumentation.xml"/>
+    
+    <consumables>
+        <fuel>
+            <tank n="0">
+                <name>LH Wing</name>
+            </tank>
+            <tank n="1">
+                <name>RH Wing</name>
+            </tank>
+            <tank n="2">
+                <name>Center Main</name>
+            </tank>
+        </fuel>
+    </consumables>
+
+    <controls>
+        <anti-ice>
+            <wiper type="int">0</wiper>
+            <wiper type="int">0</wiper>
+        </anti-ice>
+        <APU>
+            <electronic-control-unit type="bool">false</electronic-control-unit>
+            <fire-switch-armed type="bool">false</fire-switch-armed>
+            <fire-switch-cover type="bool">false</fire-switch-cover>
+            <off-on type="bool">false</off-on>
+        </APU>
+        <engines>
+            <engine>
+                <fire-bottle-discharge-armed type="bool">false</fire-bottle-discharge-armed>
+                <fire-bottle-discharge-cover type="bool">false</fire-bottle-discharge-cover>
+                <thrust-mode type="int">0</thrust-mode>
+                <reverser-armed type="bool">true</reverser-armed>
+				<cutoff type="bool">true</cutoff>
+				<cutoff-switch type="bool">true</cutoff-switch>
+				<man-start type="bool">0</man-start>
+				<starter type="bool">0</starter>
+				<starter-switch type="bool">0</starter-switch>
+				<max-athr-thrust type="float">0.94</max-athr-thrust>
+				<throttle-fdm type="float">0</throttle-fdm>
+            </engine>
+            <engine n="1">
+                <fire-bottle-discharge-armed type="bool">false</fire-bottle-discharge-armed>
+                <fire-bottle-discharge-cover type="bool">false</fire-bottle-discharge-cover>
+                <thrust-mode type="int">0</thrust-mode>
+                <reverser-armed type="bool">true</reverser-armed>
+				<cutoff type="bool">true</cutoff>
+				<cutoff-switch type="bool">true</cutoff-switch>
+				<man-start type="bool">0</man-start>
+				<starter type="bool">0</starter>
+				<starter-switch type="bool">0</starter-switch>
+				<max-athr-thrust type="float">0.94</max-athr-thrust>
+				<throttle-fdm type="float">0</throttle-fdm>
+            </engine>
+            <start1 type="bool">0</start1>
+            <start2 type="bool">0</start2>
+        </engines>
+        <flight>
+                <aileron-input>0</aileron-input>
+                <aileron-fbw>0</aileron-fbw>
+                <aileron-left>0.5</aileron-left>
+                <aileron-right>-0.5</aileron-right>
+                <aileron-sum>0.0</aileron-sum>
+                <elevator-input>0</elevator-input>
+                <elevator-fbw>0</elevator-fbw>
+                <elevator-left>0.1</elevator-left>
+                <elevator-right>0.1</elevator-right>
+                <elevator-sum>0.2</elevator-sum>
+                <rudder-fdm>0</rudder-fdm>
+                <spoiler-l1>0.0</spoiler-l1>
+                <spoiler-l2>0.0</spoiler-l2>
+                <spoiler-l3>0.0</spoiler-l3>
+                <spoiler-l4>0.0</spoiler-l4>
+                <spoiler-l5>0.0</spoiler-l5>
+                <spoiler-l-sum>0.0</spoiler-l-sum>
+                <spoiler-r1>0.0</spoiler-r1>
+                <spoiler-r2>0.0</spoiler-r2>
+                <spoiler-r3>0.0</spoiler-r3>
+                <spoiler-r4>0.0</spoiler-r4>
+                <spoiler-r5>0.0</spoiler-r5>
+                <spoiler-r-sum>0.0</spoiler-r-sum>
+                <speedbrake-output>0.0</speedbrake-output>
+                <speedbrake-arm>0</speedbrake-arm>
+                <ground-spoilers-armed type="bool">0</ground-spoilers-armed>
+                <speedbrake-lever type="double">0</speedbrake-lever>
+                <slats>0</slats>
+            <ground-lift-dump type="int">1</ground-lift-dump>
+        </flight>
+        <gear>
+            <horn type="bool">true</horn>
+            <brake-parking type="bool">true</brake-parking>
+            <enable-tiller type="bool">true</enable-tiller>
+            <tiller-steer-deg type="float">0</tiller-steer-deg>
+            <tiller-cmd-norm type="double">0</tiller-cmd-norm>
+            <tiller-enabled type="bool">0</tiller-enabled>
+        </gear>
+        <lighting>
+			<beacon type="bool">false</beacon>
+			<strobe type="bool">false</strobe>
+			<nav-lights type="bool">false</nav-lights>
+			<landing-lights type="bool">false</landing-lights>
+			<logo-lights type="bool">false</logo-lights>
+			<dome-norm type="double">0</dome-norm>
+			<interior type="double">0</interior>
+			<cones type="bool">true</cones>
+		</lighting>
+
+        <pneumatic>
+            <bleed-source type="int">0</bleed-source>
+            <ram-air-turbine type="bool">false</ram-air-turbine>
+            <ram-air-turbine-cover type="bool">false</ram-air-turbine-cover>
+            <APU-bleed type="bool">0</APU-bleed>
+        </pneumatic>
+                      <switches>
+			<no-smoking-sign type="bool">true</no-smoking-sign>
+			<seatbelt-sign type="bool">false</seatbelt-sign>
+		       </switches>
+
+	<gear>
+		<brake-parking type="bool">1</brake-parking>
+	</gear>
+        <cabin>
+            <seating>1</seating> <!--Standard, other classes are for the moment only in the .blend file due to high "vertice weight"-->
+        </cabin>
+    </controls>
+
+    <engines>
+        <apu>
+            <egt-degc type="double">0</egt-degc>
+            <rpm type="double">0</rpm>
+            <on-fire type="bool">false</on-fire>
+            <serviceable type="bool">true</serviceable>
+        </apu>
+        <engine>
+            <on-fire type="bool">false</on-fire>
+        </engine>
+        <engine>
+            <on-fire type="bool">false</on-fire>
+        </engine>
+    </engines>
+
+    <fcs>
+        <copilot>
+            <active type="bool">false</active>
+            <!-- These properties are kept aliased to the pilot's controls until they are un-aliased by the dual control system -->
+            <aileron-cmd-norm alias="/controls/flight/aileron" />
+            <elevator-cmd-norm alias="/controls/flight/elevator" />
+            <rudder-cmd-norm alias="/controls/flight/rudder" />
+            <throttle-cmd-norm alias="/controls/engines/engine[0]/throttle" />
+            <throttle-cmd-norm alias="/controls/engines/engine[1]/throttle" />
+            <tiller-steer-deg alias="/controls/gear/tiller-steer-deg" />
+            <brake-left-cmd-norm alias="/controls/gear/brake-left" />
+            <brake-right-cmd-norm alias="/controls/gear/brake-right" />
+        </copilot>
+    </fcs>
+
+            <input>
+                <keyboard>
+                    <key n="127">
+                    <name>Delete</name>
+                    <desc>Toggle thrust reversers or arm/disarm thrust reversers</desc>
+                    <binding>
+			<command>property-toggle</command>
+                        <property>/controls/engines/engine/reverser-cmd</property>
+                    </binding>
+                    <binding>
+			<command>property-toggle</command>
+                        <property>/controls/engines/engine[1]/reverser-cmd</property>
+                    </binding>
+                    </key>
+                   <key n="108">
+				<name>l</name>
+				<desc>toggle landing lights</desc>
+				<binding>
+					<command>property-toggle</command>
+					<property>controls/lighting/landing-lights[0]</property>
+				</binding>
+                		<binding>
+					<command>property-toggle</command>
+					<property>controls/lighting/landing-lights[1]</property>
+				</binding>
+                		<binding>
+					<command>property-toggle</command>
+					<property>controls/lighting/landing-lights[2]</property>
+				</binding>
+	    		</key>
+                </keyboard>
+            </input>
+    <nasal>
+        <cseries>
+            <file>Aircraft/CSeries/Models/Cockpit/ND.nas</file>  
+            <file>Aircraft/CSeries/Nasal/main.nas</file>
+            <file>Aircraft/CSeries/Nasal/engines.nas</file>
+            <file>Aircraft/CSeries/Nasal/electrical.nas</file>
+            <file>Aircraft/CSeries/Nasal/systems.nas</file>
+            <file>Aircraft/CSeries/Nasal/doors.nas</file>
+            <file>Aircraft/CSeries/Nasal/CS100liveries.nas</file>
+            <file>Aircraft/CSeries/Nasal/registration.nas</file>  
+		</cseries>
+		<itaf>
+            <file>Aircraft/CSeries/Nasal/it-autoflight.nas</file>
+		</itaf> 
+                <tyresmoke>
+                    <file>Aircraft/CSeries/Nasal/tyresmoke.nas</file>
+                </tyresmoke>
+            <autochecklist>
+                <file>Aircraft/Generic/autochecklist.nas</file>
+            </autochecklist>
+    </nasal>	
+    
+    <aircraft>
+		<jetway-pos>
+			<x-tra>-0.3</x-tra>
+			<y-rot>-4</y-rot>
+			<z-rot>21</z-rot>
+			<hood-rot>0</hood-rot>
+		</jetway-pos>
+	</aircraft>
+	
+</PropertyList>
